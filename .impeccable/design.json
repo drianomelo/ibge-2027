@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "source": "DESIGN.md",
+  "tokens": {
+    "color": {
+      "ink": "#173148",
+      "inkSoft": "#304b60",
+      "muted": "#50677a",
+      "paper": "#fffefa",
+      "page": "#f3f6f6",
+      "line": "#d5dfe1",
+      "blue": "#075c73",
+      "blueDark": "#063e54",
+      "correct": "#1b664d",
+      "incorrect": "#a43b34"
+    },
+    "radius": {
+      "control": "10px",
+      "card": "12px",
+      "panel": "14px"
+    },
+    "layout": {
+      "homeMaxWidth": "1160px",
+      "quizMaxWidth": "860px",
+      "resultMaxWidth": "780px"
+    },
+    "typography": {
+      "family": "Inter, Segoe UI, Arial, sans-serif",
+      "bodyRange": "0.88rem–1.05rem",
+      "fontDownload": false
+    }
+  }
+}

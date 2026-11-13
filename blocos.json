@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ct01",
+    "titulo": "O IBGE e o Censo Agropecuário",
+    "capitulos": [
+      1,
+      2,
+      3
+    ],
+    "paginas": [
+      4,
+      10
+    ],
+    "questoesPlanejadas": 20
+  },
+  {
+    "id": "ct02",
+    "titulo": "Estrutura Organizacional Censitária",
+    "capitulos": [
+      4
+    ],
+    "paginas": [
+      11,
+      19
+    ],
+    "questoesPlanejadas": 20
+  },
+  {
+    "id": "ct03",
+    "titulo": "Instrumentos de Trabalho e Navegação",
+    "capitulos": [
+      5,
+      6
+    ],
+    "paginas": [
+      20,
+      31
+    ],
+    "questoesPlanejadas": 20
+  },
+  {
+    "id": "ct04",
+    "titulo": "Divisão Político-Administrativa e Estruturas Territoriais",
+    "capitulos": [
+      7,
+      8
+    ],
+    "paginas": [
+      32,
+      38
+    ],
+    "questoesPlanejadas": 15
+  },
+  {
+    "id": "ct05",
+    "titulo": "Povos e Comunidades Tradicionais",
+    "capitulos": [
+      9
+    ],
+    "paginas": [
+      39,
+      42
+    ],
+    "questoesPlanejadas": 15
+  },
+  {
+    "id": "ct06",
+    "titulo": "Endereços e Coordenadas Geográficas",
+    "capitulos": [
+      10,
+      11
+    ],
+    "paginas": [
+      43,
+      50
+    ],
+    "questoesPlanejadas": 20
+  },
+  {
+    "id": "ct07",
+    "titulo": "Estabelecimento Agropecuário e Produtores sem Área",
+    "capitulos": [
+      12,
+      13
+    ],
+    "paginas": [
+      51,
+      58
+    ],
+    "questoesPlanejadas": 20
+  },
+  {
+    "id": "ct08",
+    "titulo": "Situações Especiais",
+    "capitulos": [
+      14
+    ],
+    "paginas": [
+      59,
+      66
+    ],
+    "questoesPlanejadas": 25
+  }
+]

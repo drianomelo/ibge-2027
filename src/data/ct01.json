@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CT01-Q01",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Missão institucional",
+    "paginaPDF": 4,
+    "enunciado": "Uma equipe de planejamento municipal pretende utilizar informações oficiais para compreender a realidade social e territorial de sua região. De acordo com a missão institucional apresentada na apostila, a atuação do IBGE busca",
+    "alternativas": {
+      "A": "substituir as decisões dos governos estaduais por decisões técnicas centralizadas.",
+      "B": "produzir exclusivamente indicadores sobre o mercado de trabalho brasileiro.",
+      "C": "retratar o Brasil com informações necessárias ao conhecimento de sua realidade e ao exercício da cidadania.",
+      "D": "restringir o conhecimento estatístico aos órgãos federais responsáveis pelo orçamento.",
+      "E": "realizar apenas pesquisas de preços para orientar consumidores."
+    },
+    "correta": "C",
+    "explicacao": "A missão institucional apresentada é retratar o Brasil com informações necessárias ao conhecimento de sua realidade e ao exercício da cidadania. A apostila não limita a missão a preços, emprego ou uso exclusivo do Governo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 4"
+  },
+  {
+    "id": "CT01-Q02",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Papel institucional",
+    "paginaPDF": 4,
+    "enunciado": "Ao explicar a atuação do IBGE para novos servidores, um instrutor deve caracterizar corretamente a natureza das informações produzidas pelo Instituto. Segundo a apostila, o IBGE é o órgão coordenador e produtor de informações",
+    "alternativas": {
+      "A": "somente demográficas.",
+      "B": "estatísticas e geográficas.",
+      "C": "exclusivamente fiscais e tributárias.",
+      "D": "apenas eleitorais e administrativas.",
+      "E": "restritas ao meio rural."
+    },
+    "correta": "B",
+    "explicacao": "A página 4 define o IBGE como órgão coordenador e produtor de informações estatísticas e geográficas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 4"
+  },
+  {
+    "id": "CT01-Q03",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Rede nacional do IBGE",
+    "paginaPDF": 5,
+    "enunciado": "Um candidato consulta o quadro da rede nacional de pesquisa e disseminação do IBGE apresentado na apostila. A composição indicada nesse material é de",
+    "alternativas": {
+      "A": "26 Superintendências Estaduais e 566 Agências municipais.",
+      "B": "27 Superintendências Estaduais e 500 Agências municipais.",
+      "C": "27 Superintendências Estaduais e 566 Agências municipais.",
+      "D": "28 Superintendências Estaduais e 566 Agências municipais.",
+      "E": "27 Superintendências Estaduais e 5.569 Agências municipais."
+    },
+    "correta": "C",
+    "explicacao": "De acordo com a página 5 da apostila, a rede é formada por 27 Superintendências Estaduais (SES) e 566 Agências municipais. Os números reproduzem o documento utilizado como referência para a prova.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 5"
+  },
+  {
+    "id": "CT01-Q04",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Vínculo e atribuições da rede",
+    "paginaPDF": 5,
+    "enunciado": "As Superintendências Estaduais e as Agências municipais compõem a rede do IBGE. Conforme a apostila, essas unidades são vinculadas à",
+    "alternativas": {
+      "A": "Presidência do Instituto e atuam no planejamento, coordenação, execução e monitoramento das atividades técnicas e administrativas.",
+      "B": "Secretaria do Tesouro Nacional e atuam exclusivamente na fiscalização orçamentária.",
+      "C": "Administração municipal e respondem apenas por pesquisas de interesse local.",
+      "D": "Justiça Eleitoral e atuam na atualização de cadastros de eleitores.",
+      "E": "Organização das Nações Unidas e executam diretamente suas operações censitárias."
+    },
+    "correta": "A",
+    "explicacao": "A página 5 afirma que essas unidades são vinculadas à Presidência do IBGE e encarregadas do planejamento, coordenação, execução e monitoramento de atividades técnicas e administrativas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 5"
+  },
+  {
+    "id": "CT01-Q05",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Uso das informações",
+    "paginaPDF": 4,
+    "enunciado": "Ao avaliar a relevância dos levantamentos do IBGE, uma gestora pública afirma que suas informações têm impacto em decisões de diversas áreas. Qual exemplo está de acordo com a apostila?",
+    "alternativas": {
+      "A": "Os levantamentos são destinados exclusivamente ao setor agropecuário.",
+      "B": "As informações produzidas dispensam o uso de outras evidências no planejamento público.",
+      "C": "O Instituto estabelece diretamente os preços cobrados nos supermercados.",
+      "D": "As informações podem subsidiar políticas públicas de saúde, transporte e educação.",
+      "E": "Os dados são usados apenas para fins de divulgação histórica."
+    },
+    "correta": "D",
+    "explicacao": "Na página 4, a apostila afirma que as informações produzidas pelo IBGE repercutem até na formulação de políticas públicas de saúde, transporte e educação. Não há afirmação de que o Instituto fixe preços ou substitua decisões governamentais.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 4"
+  },
+  {
+    "id": "CT01-Q06",
+    "bloco": "ct01",
+    "capitulo": 1,
+    "topico": "Distribuição das SES",
+    "paginaPDF": 5,
+    "enunciado": "Sobre a distribuição das Superintendências Estaduais (SES) mencionada no material de estudos, é correto afirmar que elas estão distribuídas em",
+    "alternativas": {
+      "A": "27 capitais estaduais, sem unidade no Distrito Federal.",
+      "B": "26 municípios do interior e uma capital estadual.",
+      "C": "25 capitais estaduais, uma no Distrito Federal e uma em município não especificado.",
+      "D": "26 capitais e uma unidade fora do Brasil.",
+      "E": "26 capitais e uma unidade no Distrito Federal."
+    },
+    "correta": "E",
+    "explicacao": "A apostila registra 27 SES: 26 nas capitais e uma no Distrito Federal (página 5).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 5"
+  },
+  {
+    "id": "CT01-Q07",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Conceito de pesquisa censitária",
+    "paginaPDF": 6,
+    "enunciado": "Ao comparar uma investigação censitária com uma pesquisa realizada apenas com parte das unidades, um recenseador observa que a característica definidora da pesquisa censitária é",
+    "alternativas": {
+      "A": "selecionar exclusivamente os maiores estabelecimentos.",
+      "B": "ouvir apenas produtores indicados previamente pela administração municipal.",
+      "C": "coletar dados de toda a população do universo definido para a investigação.",
+      "D": "limitar a investigação às unidades com produção comercializada.",
+      "E": "entrevistar uma amostra aleatória e extrapolar os resultados."
+    },
+    "correta": "C",
+    "explicacao": "A página 6 define pesquisa censitária como levantamento que coleta dados de toda a população de um universo que se quer investigar; não se restringe a uma amostra desse universo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 6"
+  },
+  {
+    "id": "CT01-Q08",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Universo de investigação",
+    "paginaPDF": 6,
+    "enunciado": "Uma pessoa afirma que o Censo Agropecuário, Florestal e Aquícola deve percorrer todas as residências brasileiras, pois seu universo de investigação equivale ao da população residente. De acordo com a apostila, essa afirmação está",
+    "alternativas": {
+      "A": "correta, porque todos os domicílios brasileiros são estabelecimentos agropecuários.",
+      "B": "incorreta, porque o universo investigado é o dos estabelecimentos agropecuários.",
+      "C": "correta, desde que a residência esteja localizada na área urbana.",
+      "D": "incorreta, porque são pesquisadas apenas unidades de extrativismo florestal.",
+      "E": "correta, mas somente nos municípios com mais de 100 mil habitantes."
+    },
+    "correta": "B",
+    "explicacao": "O universo do Censo Agropecuário, Florestal e Aquícola é formado pelos estabelecimentos agropecuários, conforme a página 6. Ele não se confunde com todos os domicílios do país.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 6"
+  },
+  {
+    "id": "CT01-Q09",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Abrangência dos estabelecimentos",
+    "paginaPDF": 6,
+    "enunciado": "Considere uma pequena unidade produtiva localizada na área urbana, organizada por uma família e cuja produção se destina ao próprio sustento. À luz do conceito geral apresentado na página 6, essa unidade",
+    "alternativas": {
+      "A": "está necessariamente fora do universo por não comercializar a produção.",
+      "B": "somente pode integrar o universo se estiver registrada como pessoa jurídica.",
+      "C": "está necessariamente excluída por se localizar em área urbana.",
+      "D": "pode integrar o universo, pois tamanho, forma jurídica, localização urbana ou rural e finalidade de subsistência não impedem, por si só, o enquadramento.",
+      "E": "precisa possuir área superior a um hectare para integrar o universo."
+    },
+    "correta": "D",
+    "explicacao": "A página 6 diz que a unidade de produção ou exploração agropecuária, florestal ou aquícola pode ser de qualquer tamanho, forma jurídica, localização rural ou urbana, e destinar a produção à venda ou à subsistência. A decisão operacional detalhada aparece em capítulos posteriores.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 6"
+  },
+  {
+    "id": "CT01-Q10",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Atividade florestal",
+    "paginaPDF": 7,
+    "enunciado": "Um levantamento identifica uma atividade de manejo de mata nativa com coleta de produtos florestais. Segundo as definições da apostila, essa atividade se enquadra no campo",
+    "alternativas": {
+      "A": "florestal, que inclui cultivo, manejo ou exploração de florestas e o extrativismo florestal.",
+      "B": "aquícola, pois depende necessariamente de ambientes aquáticos.",
+      "C": "exclusivamente pecuário, por envolver exploração de recursos naturais.",
+      "D": "industrial, sendo por definição excluída do conceito florestal.",
+      "E": "agrícola, apenas quando ocorrer em floresta plantada."
+    },
+    "correta": "A",
+    "explicacao": "Na página 7, a definição de atividade florestal inclui cultivo, manejo ou exploração de florestas e matas nativas ou plantadas, além do extrativismo florestal.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 7"
+  },
+  {
+    "id": "CT01-Q11",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Atividade aquícola",
+    "paginaPDF": 7,
+    "enunciado": "Na classificação apresentada no documento, a atividade aquícola está relacionada à",
+    "alternativas": {
+      "A": "extração mineral realizada em rios e lagos.",
+      "B": "construção de reservatórios para irrigação agrícola.",
+      "C": "produção de grãos em áreas sujeitas a chuvas intensas.",
+      "D": "exploração de matas nativas localizadas junto a rios.",
+      "E": "criação e multiplicação de plantas e animais cujo ciclo de vida natural ocorre total ou parcialmente em meio aquático."
+    },
+    "correta": "E",
+    "explicacao": "A página 7 define atividade aquícola pela criação e multiplicação de plantas e animais cujo ciclo de vida, em condições naturais, se dá total ou parcialmente em meio aquático.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 7"
+  },
+  {
+    "id": "CT01-Q12",
+    "bloco": "ct01",
+    "capitulo": 2,
+    "topico": "Utilidade dos dados censitários",
+    "paginaPDF": 6,
+    "enunciado": "Ao utilizar resultados de censos para orientar ações governamentais, um gestor pretende identificar regiões que necessitam de programas de estímulo ao desenvolvimento econômico. Segundo a apostila, tal utilização é",
+    "alternativas": {
+      "A": "incompatível com a finalidade das informações censitárias.",
+      "B": "possível apenas após converter o Censo em pesquisa amostral.",
+      "C": "uma das aplicações expressamente apontadas para as informações obtidas pelos censos.",
+      "D": "permitida somente para programas de educação.",
+      "E": "restrita à definição dos limites dos setores censitários."
+    },
+    "correta": "C",
+    "explicacao": "A página 6 inclui, entre os usos dos dados censitários, localizar regiões que necessitam de programas de estímulo ao desenvolvimento econômico, identificar áreas que precisam de investimentos e planejar melhor a distribuição de recursos públicos.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 6"
+  },
+  {
+    "id": "CT01-Q13",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Histórico do Censo e do IBGE",
+    "paginaPDF": 8,
+    "enunciado": "Ao elaborar uma linha do tempo dos levantamentos agropecuários, um estudante deve registrar, conforme a apostila, que o primeiro Censo Agropecuário brasileiro ocorreu em",
+    "alternativas": {
+      "A": "1936, ano de criação do IBGE.",
+      "B": "1920, antes da fundação do IBGE em 1936.",
+      "C": "1940, após a criação do IBGE.",
+      "D": "1975, quando começou a periodicidade quinquenal.",
+      "E": "2007, primeiro levantamento do século XXI."
+    },
+    "correta": "B",
+    "explicacao": "A página 8 registra que o primeiro Censo Agropecuário no Brasil ocorreu em 1920 e que o IBGE foi fundado em 1936.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 8"
+  },
+  {
+    "id": "CT01-Q14",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Periodicidade histórica",
+    "paginaPDF": 8,
+    "enunciado": "Sobre a periodicidade dos Censos Agropecuários no Brasil, a apostila informa que, entre 1940 e 1970, os levantamentos eram realizados",
+    "alternativas": {
+      "A": "anualmente, passando a cada dez anos depois de 1970.",
+      "B": "a cada cinco anos, passando a cada dez anos em 1975.",
+      "C": "somente quando havia recursos externos disponíveis.",
+      "D": "a cada dez anos; posteriormente, houve levantamentos em 1975, 1980 e 1985.",
+      "E": "sempre em intervalos fixos de três anos."
+    },
+    "correta": "D",
+    "explicacao": "De acordo com a página 8, de 1940 a 1970 os Censos Agropecuários foram decenais e, a partir de então, passaram a ocorrer a cada cinco anos, com levantamentos em 1975, 1980 e 1985.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 8"
+  },
+  {
+    "id": "CT01-Q15",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Evolução dos levantamentos",
+    "paginaPDF": 8,
+    "enunciado": "Um candidato afirma que houve Censo Agropecuário em 1990, seguido de outro em 1995. Segundo a cronologia da apostila, a informação está",
+    "alternativas": {
+      "A": "incorreta: em 1990 não foi possível realizar o levantamento, que ocorreu em 1996.",
+      "B": "correta: a periodicidade quinquenal foi mantida sem interrupção.",
+      "C": "incorreta: o levantamento foi realizado em 1992 e repetido em 1997.",
+      "D": "correta somente para as regiões Sul e Sudeste.",
+      "E": "incorreta: após 1985, o próximo Censo foi realizado apenas em 2017."
+    },
+    "correta": "A",
+    "explicacao": "A página 8 registra que não foi possível executar o Censo em 1990; ele ocorreu em 1996. Também registra levantamentos em 2007 e 2017.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 8"
+  },
+  {
+    "id": "CT01-Q16",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Tecnologia na coleta",
+    "paginaPDF": 8,
+    "enunciado": "Durante uma apresentação sobre a evolução tecnológica dos censos, menciona-se que os recenseadores podem utilizar instrumentos digitais para a localização de unidades de interesse. Qual conjunto está de acordo com a apostila?",
+    "alternativas": {
+      "A": "Equipamentos de fiscalização tributária, sem mapas geográficos.",
+      "B": "Apenas formulários impressos e planilhas de uso administrativo.",
+      "C": "Somente fotografias aéreas antigas, sem dispositivos de campo.",
+      "D": "Exclusivamente aplicativos de previsão do tempo.",
+      "E": "Dispositivos Móveis de Coleta (DMCs), mapas digitais e imagens de satélite."
+    },
+    "correta": "E",
+    "explicacao": "A página 8 menciona DMCs, mapas digitais e imagens de satélite para apoiar o percurso do recenseador e a localização das unidades de interesse.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 8"
+  },
+  {
+    "id": "CT01-Q17",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Ano de coleta e referência",
+    "paginaPDF": 9,
+    "enunciado": "Segundo a apresentação do 12º Censo Agropecuário, Florestal e Aquícola na apostila, a coleta será realizada em 2027 e terá como referência",
+    "alternativas": {
+      "A": "os dados do ano de 2017, último Censo citado.",
+      "B": "os dados exclusivamente do primeiro trimestre de 2027.",
+      "C": "os dados do ano de 2026.",
+      "D": "os dados do ano de 2025, sem qualquer outra indicação.",
+      "E": "os dados do ano de 2030, por projeção."
+    },
+    "correta": "C",
+    "explicacao": "A página 9 informa expressamente que a coleta será realizada em 2027, tendo como referência os dados de 2026. O material contém um exemplo de datas em outro capítulo; para esta pergunta, vale a informação da página 9.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 9"
+  },
+  {
+    "id": "CT01-Q18",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Objetivos e produtos do Censo",
+    "paginaPDF": 9,
+    "enunciado": "Entre os resultados esperados do 12º Censo Agropecuário, Florestal e Aquícola, segundo a apostila, está",
+    "alternativas": {
+      "A": "eliminar a necessidade de comparar os resultados com os censos anteriores.",
+      "B": "produzir informações atualizadas sobre a produção agropecuária, florestal e aquícola e permitir comparações históricas.",
+      "C": "substituir todas as pesquisas amostrais do IBGE por um levantamento único.",
+      "D": "divulgar resultados apenas em nível nacional, sem desagregação territorial.",
+      "E": "restringir a investigação aos produtores que fazem parte do Pronaf."
+    },
+    "correta": "B",
+    "explicacao": "A página 9 prevê produção de informações atualizadas e identificação de transformações ao longo do tempo por meio da comparação com Censos Agropecuários anteriores. Também prevê recortes territoriais e formação de cadastro para pesquisas amostrais.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 9"
+  },
+  {
+    "id": "CT01-Q19",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Concepção metodológica",
+    "paginaPDF": 10,
+    "enunciado": "Na concepção do 12º Censo Agropecuário, Florestal e Aquícola, a apostila menciona a consideração de recomendações de organismos e iniciativas internacionais. Uma dessas referências é",
+    "alternativas": {
+      "A": "o Programa Mundial de Censos Agropecuários da FAO.",
+      "B": "a Convenção de Chicago sobre aviação civil internacional.",
+      "C": "o Programa Internacional de Avaliação de Estudantes (PISA).",
+      "D": "o regime de metas de inflação do Banco Central.",
+      "E": "o sistema de classificação de competições esportivas internacionais."
+    },
+    "correta": "A",
+    "explicacao": "A página 10 menciona a Estratégia Global para o Aprimoramento das Estatísticas Agropecuárias e o Programa Mundial de Censos Agropecuários da FAO.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 10"
+  },
+  {
+    "id": "CT01-Q20",
+    "bloco": "ct01",
+    "capitulo": 3,
+    "topico": "Abrangência e impactos",
+    "paginaPDF": 10,
+    "enunciado": "Uma secretaria pretende analisar resultados do Censo Agropecuário em municípios e em diferentes recortes territoriais e utilizá-los para avaliar políticas de apoio à agricultura familiar. De acordo com a apostila, essa iniciativa",
+    "alternativas": {
+      "A": "é inadequada, pois os resultados não admitem agregação territorial.",
+      "B": "é inadequada, pois a avaliação de políticas públicas não é mencionada entre os impactos do Censo.",
+      "C": "é possível apenas para territórios urbanos com alta densidade demográfica.",
+      "D": "está de acordo com a abrangência territorial do Censo e com a possibilidade de avaliar políticas como o Pronaf.",
+      "E": "contraria a finalidade do levantamento, que se restringe à emissão de mapas dos setores."
+    },
+    "correta": "D",
+    "explicacao": "A página 10 informa que os resultados se referem aos municípios e permitem análises por diversos recortes territoriais; também menciona a avaliação de políticas públicas, como o Pronaf, voltado ao fortalecimento da agricultura familiar.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 10"
+  }
+]
