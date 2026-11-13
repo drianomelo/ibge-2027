@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "CT07-Q01",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Data de referência",
+    "paginaPDF": 51,
+    "enunciado": "Um questionário pergunta qual era a situação de determinada unidade em uma data específica do levantamento. Segundo a apostila, esse marco temporal é denominado",
+    "alternativas": {
+      "A": "data de referência, que representa o momento específico ao qual a informação se refere.",
+      "B": "período de referência, necessariamente superior a um ano.",
+      "C": "mês de processamento estatístico, definido pelo recenseador.",
+      "D": "perímetro de referência, relacionado aos limites territoriais.",
+      "E": "data da entrevista, obrigatoriamente igual à data de referência."
+    },
+    "correta": "A",
+    "explicacao": "A página 51 diferencia data de referência (momento específico considerado) de período de referência (intervalo considerado). As datas apresentadas no exemplo da página não definem, por si, a data oficial do Censo de 2027.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 51"
+  },
+  {
+    "id": "CT07-Q02",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Período de referência",
+    "paginaPDF": 51,
+    "enunciado": "Para medir acontecimentos ocorridos ao longo de determinado intervalo, como atividades agropecuárias realizadas durante o ano considerado, o questionário utiliza",
+    "alternativas": {
+      "A": "o período de referência.",
+      "B": "o dia de publicação dos resultados.",
+      "C": "a data de assinatura do termo de posse.",
+      "D": "a numeração do setor censitário.",
+      "E": "a latitude de referência."
+    },
+    "correta": "A",
+    "explicacao": "A página 51 explica que período de referência é o intervalo de tempo utilizado para levantar determinadas informações, diferentemente da data de referência.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 51"
+  },
+  {
+    "id": "CT07-Q03",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Unidade recenseável",
+    "paginaPDF": 51,
+    "enunciado": "Durante o percurso, o recenseador encontra uma unidade dedicada parcialmente à produção aquícola destinada à comercialização. De acordo com a apostila, essa unidade",
+    "alternativas": {
+      "A": "é automaticamente excluída por possuir atividade parcial.",
+      "B": "não integra o Censo por não se dedicar exclusivamente à agricultura.",
+      "C": "não pode ser investigada quando a produção é vendida.",
+      "D": "só será recenseada se estiver em área rural.",
+      "E": "pode ser recenseável, pois a produção ou exploração aquícola integra o universo investigado."
+    },
+    "correta": "E",
+    "explicacao": "A página 51 considera unidades recenseáveis as que têm produção ou exploração total ou parcial em atividade agropecuária, florestal ou aquícola.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 51"
+  },
+  {
+    "id": "CT07-Q04",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Unidade não recenseável",
+    "paginaPDF": 52,
+    "enunciado": "Em um sítio de lazer, moradores mantêm árvores frutíferas e pequenos animais somente como passatempo, sem exploração destinada à venda ou à subsistência nas condições do Censo. A unidade é",
+    "alternativas": {
+      "A": "necessariamente recenseável porque está em zona rural.",
+      "B": "obrigatoriamente cadastrada como produtor sem área.",
+      "C": "recenseável porque qualquer frutífera implica lavoura comercial.",
+      "D": "não recenseável apenas pela existência desses elementos de lazer.",
+      "E": "recenseável porque qualquer animal caracteriza estabelecimento."
+    },
+    "correta": "D",
+    "explicacao": "A página 52 esclarece que jardim, horta, árvores e animais mantidos apenas para lazer e deleite não caracterizam, por si, unidade recenseável.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 52"
+  },
+  {
+    "id": "CT07-Q05",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Subsistência",
+    "paginaPDF": 53,
+    "enunciado": "Uma família depende principalmente do que produz em sua área para atender às necessidades essenciais de alimentação. Eventualmente, vende ou troca pequena parte da produção. Segundo a apostila, isso caracteriza",
+    "alternativas": {
+      "A": "estabelecimento industrial que deve ser excluído.",
+      "B": "produção de subsistência, compatível com unidade recenseável.",
+      "C": "unidade domiciliar sem qualquer relação agropecuária.",
+      "D": "produção necessariamente recreativa e não recenseável.",
+      "E": "atividade exclusivamente comercial de grande escala."
+    },
+    "correta": "B",
+    "explicacao": "A página 53 caracteriza produção de subsistência como a voltada às necessidades vitais da família; eventual venda ou troca de parte da produção não descaracteriza essa finalidade.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 53"
+  },
+  {
+    "id": "CT07-Q06",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Identificação em campo",
+    "paginaPDF": 53,
+    "enunciado": "Um recenseador observa uma propriedade por cima da cerca e conclui que não há unidade recenseável porque não vê plantios extensivos. Conforme a apostila, o procedimento correto seria",
+    "alternativas": {
+      "A": "incluir a unidade como recenseável sem conversar com ninguém.",
+      "B": "classificar a atividade pela quantidade de construções na área.",
+      "C": "perguntar sobre as atividades existentes e utilizar o questionário de abordagem inicial para a classificação.",
+      "D": "dispensar a abordagem se a área parecer pequena.",
+      "E": "consultar apenas imagens de satélite para definir a classificação."
+    },
+    "correta": "C",
+    "explicacao": "A página 53 afirma que não é possível determinar a existência de unidade recenseável apenas pela aparência; o questionário de abordagem inicial realiza a classificação.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 53"
+  },
+  {
+    "id": "CT07-Q07",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Responsável pela classificação",
+    "paginaPDF": 53,
+    "enunciado": "Após abordar uma propriedade, o agente precisa determinar se sua atividade se enquadra no Censo Agropecuário. A apostila estabelece que a classificação",
+    "alternativas": {
+      "A": "depende exclusivamente da impressão pessoal do recenseador.",
+      "B": "considera somente o número de animais observados.",
+      "C": "pode ser dispensada se houver residência no local.",
+      "D": "é realizada pelo questionário de abordagem inicial, e não por decisão direta do recenseador.",
+      "E": "é feita apenas pelo valor de mercado da propriedade."
+    },
+    "correta": "D",
+    "explicacao": "A página 53 ressalta que a definição de unidade recenseável deve resultar da classificação pelo questionário de abordagem inicial, não por julgamento isolado do agente.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 53"
+  },
+  {
+    "id": "CT07-Q08",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Animais não recenseáveis",
+    "paginaPDF": 54,
+    "enunciado": "Em um local dedicado à criação de cães e gatos de companhia, sem atividade agropecuária enquadrável, o recenseador aplica as orientações do material. A atividade descrita é",
+    "alternativas": {
+      "A": "aquicultura de pequeno porte.",
+      "B": "uma atividade de criação não considerada agropecuária para o Censo.",
+      "C": "produção de subsistência, necessariamente.",
+      "D": "uma forma de produção florestal.",
+      "E": "obrigatoriamente pecuária comercial recenseável."
+    },
+    "correta": "B",
+    "explicacao": "A página 54 afirma que criações de pássaros, cães, gatos e animais destinados a experiências, soros e vacinas não são classificadas como atividades agropecuárias, florestais ou aquícolas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 54"
+  },
+  {
+    "id": "CT07-Q09",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Locais excluídos",
+    "paginaPDF": 55,
+    "enunciado": "Uma equipe analisa um hotel-fazenda dedicado ao lazer turístico e pergunta se a simples existência de animais e hortas justifica sua inclusão. No quadro de exclusões da apostila, hotéis-fazenda e locais de lazer estão",
+    "alternativas": {
+      "A": "entre os locais apresentados como não recenseáveis.",
+      "B": "automaticamente incluídos independentemente da atividade.",
+      "C": "exclusivamente associados ao Censo Industrial.",
+      "D": "considerados empresas de aquicultura.",
+      "E": "classificados como produtores sem área."
+    },
+    "correta": "A",
+    "explicacao": "O quadro ilustrado da página 55 apresenta hotéis-fazenda e locais de lazer entre os locais não recenseáveis, de acordo com as exclusões do material.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 55"
+  },
+  {
+    "id": "CT07-Q10",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Definição do estabelecimento",
+    "paginaPDF": 55,
+    "enunciado": "Uma unidade localizada em área urbana realiza cultivo de hortaliças com finalidade de venda. Segundo o conceito do IBGE, a localização urbana",
+    "alternativas": {
+      "A": "impede qualquer enquadramento como estabelecimento agropecuário.",
+      "B": "não impede que exista um estabelecimento agropecuário recenseável.",
+      "C": "dispensa o questionário inicial.",
+      "D": "transforma automaticamente a atividade em comércio varejista.",
+      "E": "obriga que a unidade seja tratada como produtor sem área."
+    },
+    "correta": "B",
+    "explicacao": "A página 55 define estabelecimento agropecuário independentemente de localização rural ou urbana, tamanho, forma jurídica ou valor da produção.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 55"
+  },
+  {
+    "id": "CT07-Q11",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Escala e forma jurídica",
+    "paginaPDF": 55,
+    "enunciado": "Um pequeno produtor individual e uma empresa com vasta área desenvolvem atividades agropecuárias para venda. De acordo com a definição apresentada, a caracterização do estabelecimento",
+    "alternativas": {
+      "A": "exige que a produção seja destinada apenas ao consumo da família.",
+      "B": "exclui empresas por terem finalidade lucrativa.",
+      "C": "independe do tamanho e da forma jurídica, desde que haja exploração enquadrável.",
+      "D": "depende de uma área mínima de 100 hectares.",
+      "E": "se restringe a pessoas físicas sem empregados."
+    },
+    "correta": "C",
+    "explicacao": "A página 55 esclarece que estabelecimentos podem ter diferentes tamanhos e formas jurídicas, com produção para venda ou subsistência.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 55"
+  },
+  {
+    "id": "CT07-Q12",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Lavoura temporária",
+    "paginaPDF": 55,
+    "enunciado": "Uma propriedade cultiva milho e feijão, com plantio e colheita ao longo do mesmo ciclo anual, exigindo novo plantio para outra safra. Essa atividade se enquadra em",
+    "alternativas": {
+      "A": "lavoura permanente.",
+      "B": "exploração aquícola.",
+      "C": "criação de animais.",
+      "D": "silvicultura, necessariamente.",
+      "E": "lavoura temporária."
+    },
+    "correta": "E",
+    "explicacao": "A página 55 descreve lavoura temporária como plantação que completa o ciclo e é colhida no mesmo ano, exigindo replantio, como milho e feijão.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 55"
+  },
+  {
+    "id": "CT07-Q13",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Lavoura permanente",
+    "paginaPDF": 56,
+    "enunciado": "Em uma área produtiva, cafezais e laranjeiras permanecem no solo por vários anos e geram safras sucessivas. Conforme a classificação apresentada, trata-se de",
+    "alternativas": {
+      "A": "horta doméstica recreativa, necessariamente.",
+      "B": "lavoura permanente.",
+      "C": "exploração pecuária.",
+      "D": "aquicultura.",
+      "E": "lavoura temporária."
+    },
+    "correta": "B",
+    "explicacao": "A página 56 caracteriza lavoura permanente como cultivo que, após implantado, produz por vários anos, com exemplos de café, laranja e uva.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 56"
+  },
+  {
+    "id": "CT07-Q14",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Aquicultura",
+    "paginaPDF": 56,
+    "enunciado": "Um empreendimento de pesque-pague cria e engorda seus próprios peixes antes de disponibilizá-los aos clientes. De acordo com o exemplo da apostila, esse empreendimento",
+    "alternativas": {
+      "A": "é excluído porque a atividade ocorre em meio aquático.",
+      "B": "é necessariamente classificado como indústria de alimentos.",
+      "C": "só seria recenseável se criasse animais terrestres.",
+      "D": "pode ser estabelecimento agropecuário, pois há criação e engorda de peixes.",
+      "E": "não pode ser estabelecimento agropecuário porque vende serviços."
+    },
+    "correta": "D",
+    "explicacao": "A página 56 informa que pesque-pague com criação e engorda de peixes pode ser considerado estabelecimento agropecuário, ao contrário daquele que só compra peixes já criados.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 56"
+  },
+  {
+    "id": "CT07-Q15",
+    "bloco": "ct07",
+    "capitulo": 12,
+    "topico": "Produção florestal",
+    "paginaPDF": 56,
+    "enunciado": "Um produtor realiza plantio de árvores para venda de celulose e coleta produtos de mata nativa. Na classificação do material, a atividade integra",
+    "alternativas": {
+      "A": "exploração de matas e florestas nativas ou plantadas.",
+      "B": "atividade recreativa não recenseável em qualquer condição.",
+      "C": "exclusivamente a produção industrial sem relação com o Censo.",
+      "D": "apenas a horticultura doméstica.",
+      "E": "somente a categoria de criação de animais."
+    },
+    "correta": "A",
+    "explicacao": "A página 56 inclui plantio de árvores para celulose e coleta de produtos de matas nativas entre exemplos de exploração florestal.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 56"
+  },
+  {
+    "id": "CT07-Q16",
+    "bloco": "ct07",
+    "capitulo": 13,
+    "topico": "Definição de produtor sem área",
+    "paginaPDF": 57,
+    "enunciado": "Uma pessoa realiza exploração agropecuária utilizando recursos naturais ou áreas temporariamente disponíveis, sem possuir local próprio delimitado para a atividade. A situação caracteriza",
+    "alternativas": {
+      "A": "proprietário urbano de alta densidade.",
+      "B": "produtor necessariamente não recenseável.",
+      "C": "produtor sem área.",
+      "D": "recenseador de setor contíguo.",
+      "E": "estabelecimento industrial em atividade."
+    },
+    "correta": "C",
+    "explicacao": "A página 57 descreve produtores sem área como aqueles que realizam determinadas atividades agropecuárias sem área própria ou espaço físico delimitado para a produção.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 57"
+  },
+  {
+    "id": "CT07-Q17",
+    "bloco": "ct07",
+    "capitulo": 13,
+    "topico": "Apicultura sem área",
+    "paginaPDF": 57,
+    "enunciado": "Um apicultor mantém colmeias em uma mata pertencente a outro produtor e realiza ali sua atividade. À luz dos exemplos da apostila, ele",
+    "alternativas": {
+      "A": "só pode ser considerado produtor se cultivar lavouras temporárias.",
+      "B": "precisa possuir imóvel urbano para ser investigado.",
+      "C": "deve ser excluído sempre porque não é dono da mata.",
+      "D": "pode ser enquadrado como produtor sem área e ter suas informações coletadas.",
+      "E": "deve ser considerado apenas trabalhador administrativo."
+    },
+    "correta": "D",
+    "explicacao": "A página 57 cita explicitamente produtor de mel que instala colmeias em matas ou áreas de outros estabelecimentos como exemplo de produtor sem área.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 57"
+  },
+  {
+    "id": "CT07-Q18",
+    "bloco": "ct07",
+    "capitulo": 13,
+    "topico": "Extrativismo",
+    "paginaPDF": 57,
+    "enunciado": "Uma pessoa coleta babaçu e castanha-do-brasil em matas às quais tem acesso, sem possuir área produtiva própria delimitada. Conforme o material, esse caso é exemplo de",
+    "alternativas": {
+      "A": "atividade que somente o proprietário da floresta pode registrar.",
+      "B": "produção não agrícola automaticamente excluída.",
+      "C": "atividade obrigatoriamente urbana.",
+      "D": "criação pecuária sem fins de venda.",
+      "E": "produtor sem área ligado ao extrativismo."
+    },
+    "correta": "E",
+    "explicacao": "A página 57 relaciona extrativistas que coletam produtos de matas ou florestas, como babaçu, castanha e látex, entre produtores sem área.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 57"
+  },
+  {
+    "id": "CT07-Q19",
+    "bloco": "ct07",
+    "capitulo": 13,
+    "topico": "Posse encerrada na referência",
+    "paginaPDF": 57,
+    "enunciado": "Um produtor explorou terras arrendadas durante o período de referência, mas já não estava na posse delas na data de referência. De acordo com os exemplos da apostila, esse produtor",
+    "alternativas": {
+      "A": "somente será incluído caso tenha residência na propriedade.",
+      "B": "deve ter a produção incluída exclusivamente no estabelecimento do atual ocupante.",
+      "C": "pode enquadrar-se como produtor sem área, devendo ser investigada sua produção do período.",
+      "D": "deve ser omitido por não ser proprietário da terra.",
+      "E": "não pode ser considerado porque perdeu a posse da área."
+    },
+    "correta": "C",
+    "explicacao": "A página 57 inclui produtores que exploraram terras próprias, arrendadas ou outras e não estavam mais nelas na data de referência entre exemplos de produtores sem área.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 57"
+  },
+  {
+    "id": "CT07-Q20",
+    "bloco": "ct07",
+    "capitulo": 13,
+    "topico": "Entrevista do produtor sem área",
+    "paginaPDF": 58,
+    "enunciado": "O recenseador descobre que uma área foi explorada durante o período de referência por um arrendatário que já saiu do local. Se conseguir localizar esse produtor, segundo o exemplo apresentado, deve",
+    "alternativas": {
+      "A": "registrar a produção em nome do atual proprietário sem ouvi-lo.",
+      "B": "desconsiderar a produção porque o arrendamento terminou.",
+      "C": "registrar apenas a renda pessoal do produtor atual.",
+      "D": "alterar o período de referência para a data da visita.",
+      "E": "abordá-lo e coletar as informações da produção, identificando no questionário a condição de produtor sem área."
+    },
+    "correta": "E",
+    "explicacao": "A página 58 apresenta caso em que o recenseador localiza antigo arrendatário, coleta as informações da produção do período e assinala a condição de produtor sem área.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 58"
+  }
+]

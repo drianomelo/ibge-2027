@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "CT02-Q01",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Estrutura censitária",
+    "paginaPDF": 11,
+    "enunciado": "Para executar o Censo Agropecuário, o IBGE amplia sua organização habitual com departamentos e funções adicionais. Segundo a apostila, essa ampliação se justifica porque",
+    "alternativas": {
+      "A": "o planejamento passa a ser atribuição exclusiva dos recenseadores.",
+      "B": "os municípios assumem integralmente a direção do IBGE.",
+      "C": "as pesquisas censitárias dispensam coordenação entre órgãos.",
+      "D": "a operação censitária demanda uma estrutura temporária para enfrentar suas necessidades específicas.",
+      "E": "a estrutura permanente deixa de existir durante a coleta."
+    },
+    "correta": "D",
+    "explicacao": "A página 11 informa que a estrutura permanente é ampliada por funções e departamentos temporários devido às demandas específicas e complexas da operação censitária.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 11"
+  },
+  {
+    "id": "CT02-Q02",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Estrutura permanente",
+    "paginaPDF": 12,
+    "enunciado": "Um servidor procura identificar quais unidades integram a estrutura permanente do IBGE, em oposição às criadas para o Censo. Constituem elementos da estrutura permanente",
+    "alternativas": {
+      "A": "o Centro Estadual de Qualidade e os recenseadores.",
+      "B": "a Sede, com suas diretorias e coordenações-gerais, e as Superintendências Estaduais.",
+      "C": "o Centro Nacional de Qualidade e os postos censitários.",
+      "D": "somente as equipes de recenseadores e supervisores.",
+      "E": "os postos censitários e os agentes censitários temporários."
+    },
+    "correta": "B",
+    "explicacao": "Na página 12, a estrutura permanente é situada na Sede (diretorias e coordenações-gerais) e nas Superintendências Estaduais, vinculadas à Presidência.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 12"
+  },
+  {
+    "id": "CT02-Q03",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Estrutura temporária",
+    "paginaPDF": 12,
+    "enunciado": "Na preparação de um organograma, uma equipe precisa separar estrutura permanente e temporária. A associação correta entre centro e sua esfera principal de atuação é",
+    "alternativas": {
+      "A": "CNQ — administração municipal; CEQ — administração federal.",
+      "B": "CNQ — supervisão direta de cada recenseador; CEQ — definição de fronteiras estaduais.",
+      "C": "CNQ — qualidade da coleta em âmbito nacional; CEQ — qualidade em âmbito estadual.",
+      "D": "CNQ — criação de endereços; CEQ — registro de entrevistas.",
+      "E": "CNQ — apoio exclusivo ao posto municipal; CEQ — coleta presencial em domicílios."
+    },
+    "correta": "C",
+    "explicacao": "O CNQ acompanha a qualidade da coleta em escala nacional e orienta os CEQs; o CEQ acompanha a qualidade dos dados coletados no nível estadual (páginas 12–13).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 12"
+  },
+  {
+    "id": "CT02-Q04",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Postos censitários",
+    "paginaPDF": 13,
+    "enunciado": "Um novo posto censitário foi instalado para apoiar a coleta em um conjunto de municípios. De acordo com a apostila, é correto afirmar que esse posto",
+    "alternativas": {
+      "A": "se destina exclusivamente ao atendimento de pesquisadores acadêmicos.",
+      "B": "é uma unidade permanente independente das Superintendências Estaduais.",
+      "C": "atende obrigatoriamente apenas a um setor censitário.",
+      "D": "serve de base operacional para equipes de supervisão e recenseadores.",
+      "E": "substitui a coleta de campo por informações de registros administrativos."
+    },
+    "correta": "D",
+    "explicacao": "A página 13 define os postos censitários como unidades de apoio ligadas às Superintendências e Agências, funcionando como base operacional e podendo atender um ou vários municípios.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 13"
+  },
+  {
+    "id": "CT02-Q05",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Equipe do posto",
+    "paginaPDF": 13,
+    "enunciado": "Ao verificar a composição de um posto censitário, um candidato observa que várias funções são desempenhadas por trabalhadores temporários. Entre os integrantes da equipe citados no material estão",
+    "alternativas": {
+      "A": "somente analistas censitários nacionais e diretores do IBGE.",
+      "B": "servidores do Judiciário e agentes de vigilância sanitária.",
+      "C": "apenas recenseadores, pois a supervisão ocorre fora do posto.",
+      "D": "AOR, ACA, ACI, ACR, ACS e recenseadores.",
+      "E": "exclusivamente os integrantes do Centro Nacional de Qualidade."
+    },
+    "correta": "D",
+    "explicacao": "A página 13 relaciona Assistente Operacional Regional, Agente Censitário Administrativo, Agente Censitário de Informática, Agente Censitário Regional, Agente Censitário Supervisor e Recenseador.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 13"
+  },
+  {
+    "id": "CT02-Q06",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Apoio operacional",
+    "paginaPDF": 15,
+    "enunciado": "Em determinado posto, é necessário resolver uma falha de tecnologia da informação que prejudica a operação administrativa. A função definida para prestar esse apoio ao AOR é a de",
+    "alternativas": {
+      "A": "Agente Censitário Supervisor (ACS).",
+      "B": "Agente Censitário de Informática (ACI).",
+      "C": "Recenseador.",
+      "D": "Agente Censitário de Qualidade (ACQ).",
+      "E": "Analista Censitário Nacional."
+    },
+    "correta": "B",
+    "explicacao": "Na página 15, a atribuição do ACI é prestar apoio relativo às questões de tecnologia da informação ao Assistente Operacional Regional.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 15"
+  },
+  {
+    "id": "CT02-Q07",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Centro de qualidade",
+    "paginaPDF": 15,
+    "enunciado": "Um órgão da estrutura censitária detecta inconsistências em entrevistas realizadas no estado e orienta supervisores e recenseadores quanto à correção. Essa atividade corresponde, no nível de campo, ao trabalho do",
+    "alternativas": {
+      "A": "Agente Censitário de Qualidade (ACQ).",
+      "B": "Recenseador lotado em outro setor.",
+      "C": "Agente Censitário Administrativo (ACA).",
+      "D": "Assistente Operacional Regional (AOR).",
+      "E": "Agente Censitário Regional, exclusivamente."
+    },
+    "correta": "A",
+    "explicacao": "A página 15 atribui ao ACQ a supervisão da qualidade dos dados de campo e a orientação a ACS e recenseadores para correções e reforço de treinamento.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 15"
+  },
+  {
+    "id": "CT02-Q08",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Administração do posto",
+    "paginaPDF": 15,
+    "enunciado": "Em um posto censitário, uma equipe precisa garantir que as instruções operacionais, técnicas e administrativas sejam observadas. A função diretamente responsável pela gestão do posto é",
+    "alternativas": {
+      "A": "Agente Censitário Supervisor.",
+      "B": "Assistente Operacional Regional (AOR).",
+      "C": "Agente Censitário de Informática.",
+      "D": "Analista Censitário Estadual.",
+      "E": "Recenseador."
+    },
+    "correta": "B",
+    "explicacao": "A página 15 descreve o AOR como responsável por gerir o posto censitário e garantir que as instruções operacionais, técnicas e administrativas sejam observadas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 15"
+  },
+  {
+    "id": "CT02-Q09",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Atribuições do ACR",
+    "paginaPDF": 16,
+    "enunciado": "O Agente Censitário Regional verifica indicadores operacionais, recebe alertas do sistema e acompanha metas de coleta. Essa atuação está relacionada, sobretudo, à",
+    "alternativas": {
+      "A": "coordenação das atividades censitárias e acompanhamento do desempenho das equipes do posto.",
+      "B": "elaboração individual de questionários para cada recenseador.",
+      "C": "criação de leis municipais de divisão territorial.",
+      "D": "substituição das atribuições do Centro Nacional de Qualidade.",
+      "E": "entrevista presencial em todos os estabelecimentos da região."
+    },
+    "correta": "A",
+    "explicacao": "Na página 16, o ACR coordena as atividades de seu posto, acompanha equipes, cobertura, cronograma, relatórios, alertas e pendências de qualidade.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 16"
+  },
+  {
+    "id": "CT02-Q10",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Atribuições do ACS",
+    "paginaPDF": 17,
+    "enunciado": "Um recenseador encontra dificuldades recorrentes durante as entrevistas e precisa de orientação técnica direta para executar corretamente a coleta. Segundo a apostila, seu principal interlocutor na supervisão é o",
+    "alternativas": {
+      "A": "Agente Censitário Supervisor (ACS).",
+      "B": "coordenador-geral da Sede.",
+      "C": "analista da área nacional.",
+      "D": "diretor da Diretoria de Pesquisas.",
+      "E": "Agente Censitário Administrativo."
+    },
+    "correta": "A",
+    "explicacao": "A página 17 atribui ao ACS a supervisão e o apoio técnico e operacional aos recenseadores, atuando como elo entre coleta e gerenciamento do posto.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 17"
+  },
+  {
+    "id": "CT02-Q11",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "ACR x ACS",
+    "paginaPDF": 16,
+    "enunciado": "Durante uma capacitação, alguém afirma que o ACR e o ACS exercem funções idênticas. Considerando a organização descrita no material, essa afirmação deve ser",
+    "alternativas": {
+      "A": "rejeitada apenas porque o ACS atua exclusivamente na sede nacional.",
+      "B": "rejeitada, pois o ACR coordena e acompanha a supervisão do posto, enquanto o ACS supervisiona diretamente os recenseadores.",
+      "C": "aceita, pois ambos apenas preenchem questionários em campo.",
+      "D": "aceita, pois ambos são subordinados diretamente ao recenseador.",
+      "E": "aceita, pois a denominação dos dois cargos muda conforme o município."
+    },
+    "correta": "B",
+    "explicacao": "O ACR coordena as atividades e o trabalho dos ACS; o ACS supervisiona o desempenho e a coleta dos recenseadores (páginas 16–17).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 16"
+  },
+  {
+    "id": "CT02-Q12",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Responsabilidades do ACS",
+    "paginaPDF": 17,
+    "enunciado": "Ao acompanhar a produtividade da coleta, um Agente Censitário Supervisor pode legitimamente",
+    "alternativas": {
+      "A": "remover registros estatísticos sem apuração.",
+      "B": "determinar a divulgação pública dos dados individuais coletados.",
+      "C": "analisar relatórios de produção, acompanhar o cronograma e responder alertas do sistema.",
+      "D": "dispensar os recenseadores de seguir os manuais oficiais.",
+      "E": "alterar por conta própria os limites legais dos municípios."
+    },
+    "correta": "C",
+    "explicacao": "A página 17 lista, entre as atribuições do ACS, analisar relatórios de produção, gerenciar alertas no SIGC e monitorar cobertura e cronograma.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 17"
+  },
+  {
+    "id": "CT02-Q13",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Sigilo e qualidade",
+    "paginaPDF": 16,
+    "enunciado": "Uma equipe discute se a responsabilidade pela confidencialidade e pela integridade dos dados deve ser considerada no acompanhamento regional. A apostila indica que o ACR deve",
+    "alternativas": {
+      "A": "excluir os dados considerados sensíveis antes da transmissão, sem registro.",
+      "B": "transferir toda essa responsabilidade exclusivamente aos informantes.",
+      "C": "usar dados individuais para avaliar produtores em redes sociais.",
+      "D": "zelar pela qualidade, pela confidencialidade e pela integridade dos dados coletados.",
+      "E": "divulgar os questionários individuais para facilitar o controle social."
+    },
+    "correta": "D",
+    "explicacao": "A página 16 apresenta expressamente o dever do ACR de zelar pela qualidade, confidencialidade e integridade dos dados coletados.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 16"
+  },
+  {
+    "id": "CT02-Q14",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Treinamento e apoio",
+    "paginaPDF": 17,
+    "enunciado": "Uma turma de recenseadores iniciará as atividades em campo. A execução dos treinamentos e o apoio técnico e operacional direto a esses agentes constituem atribuições do",
+    "alternativas": {
+      "A": "Agente Censitário Supervisor (ACS).",
+      "B": "Agente Censitário Administrativo, com exclusividade.",
+      "C": "Recenseador de outro município, com exclusividade.",
+      "D": "órgão municipal de trânsito.",
+      "E": "Centro Nacional de Qualidade, sem participação local."
+    },
+    "correta": "A",
+    "explicacao": "A página 17 afirma que o ACS supervisiona os recenseadores, ministra treinamentos e oferece apoio técnico e operacional à equipe.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 17"
+  },
+  {
+    "id": "CT02-Q15",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Rotina do recenseador",
+    "paginaPDF": 18,
+    "enunciado": "Um trabalhador contratado para coletar informações deve realizar visitas presenciais seguindo rotas diárias determinadas, sob supervisão. Esse conjunto de atividades define, diretamente, o cargo de",
+    "alternativas": {
+      "A": "Analista Censitário Nacional.",
+      "B": "Agente Censitário Administrativo.",
+      "C": "Assistente Operacional Regional.",
+      "D": "Agente Censitário de Qualidade.",
+      "E": "Recenseador."
+    },
+    "correta": "E",
+    "explicacao": "A página 17 define o recenseador como responsável pela coleta presencial regular em rotas diárias determinadas, sob supervisão do ACS; a página 18 detalha essas atividades.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 18"
+  },
+  {
+    "id": "CT02-Q16",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Registro de dados",
+    "paginaPDF": 18,
+    "enunciado": "Em uma visita de campo, o recenseador preenche o questionário e registra as informações exigidas pelo procedimento de coleta. Além de entrevistas, está entre suas tarefas",
+    "alternativas": {
+      "A": "divulgar dados identificados dos entrevistados ao público.",
+      "B": "autorizar o funcionamento de propriedades privadas.",
+      "C": "registrar e transmitir dados coletados, inclusive fotografias e coordenadas, quando previstos.",
+      "D": "alterar os requisitos de classificação dos estabelecimentos.",
+      "E": "supervisionar permanentemente todos os ACS do estado."
+    },
+    "correta": "C",
+    "explicacao": "A página 18 inclui entre as atribuições do recenseador registrar e transmitir dados, incluindo fotos, parcelas, coordenadas e questionários respondidos.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 18"
+  },
+  {
+    "id": "CT02-Q17",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Conduta em campo",
+    "paginaPDF": 18,
+    "enunciado": "Um produtor solicita que a entrevista seja realizada em outra data. Conforme as atribuições indicadas na apostila, o recenseador poderá",
+    "alternativas": {
+      "A": "transferir a responsabilidade de entrevistar ao produtor.",
+      "B": "divulgar os dados da propriedade para justificá-la.",
+      "C": "recusar qualquer alteração e registrar a unidade como inexistente.",
+      "D": "encerrar definitivamente a coleta sem registrar o pedido.",
+      "E": "agendar a entrevista, se solicitado pelo informante, e gerenciar sua realização."
+    },
+    "correta": "E",
+    "explicacao": "A página 18 prevê expressamente o agendamento de entrevistas, quando solicitado pelo informante, e a gestão de sua realização pelo recenseador.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 18"
+  },
+  {
+    "id": "CT02-Q18",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Dificuldades na coleta",
+    "paginaPDF": 18,
+    "enunciado": "Durante a coleta, um recenseador identifica uma situação não esclarecida pelos procedimentos que conhece. Para receber orientação técnica e assistência, deverá inicialmente reportar-se ao",
+    "alternativas": {
+      "A": "produtor rural mais próximo.",
+      "B": "representante da agência bancária local.",
+      "C": "prefeito do município.",
+      "D": "Centro Nacional de Qualidade, diretamente.",
+      "E": "Agente Censitário Supervisor (ACS)."
+    },
+    "correta": "E",
+    "explicacao": "A página 18 determina que o recenseador se reporte ao ACS quando houver dificuldades ou dúvidas, pois é esse supervisor que oferece orientação e assistência permanente.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 18"
+  },
+  {
+    "id": "CT02-Q19",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Posto censitário",
+    "paginaPDF": 19,
+    "enunciado": "O supervisor solicita a presença de um recenseador no posto para avaliar registros e corrigir possíveis falhas. A orientação é compatível com a apostila porque",
+    "alternativas": {
+      "A": "o comparecimento ao posto impede qualquer retorno ao campo.",
+      "B": "o posto substitui a necessidade de registrar dados durante a coleta.",
+      "C": "o posto é a base de suporte da operação, e o recenseador deve comparecer quando requisitado.",
+      "D": "o supervisor só pode avaliar o trabalho após o encerramento do Censo.",
+      "E": "o posto é responsável por tornar públicos todos os questionários."
+    },
+    "correta": "C",
+    "explicacao": "A página 19 explica que o posto apoia gerenciamento, supervisão e coleta, e que o recenseador deverá comparecer quando requisitado para avaliação e correções.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 19"
+  },
+  {
+    "id": "CT02-Q20",
+    "bloco": "ct02",
+    "capitulo": 4,
+    "topico": "Correção de informações",
+    "paginaPDF": 19,
+    "enunciado": "Depois de avaliar o trabalho de um recenseador, o supervisor identifica um dado coletado incorretamente e determina sua correção em campo. De acordo com o material, o recenseador deve",
+    "alternativas": {
+      "A": "encerrar a coleta do estabelecimento sem justificativa.",
+      "B": "solicitar ao entrevistado a divulgação pública dos seus dados.",
+      "C": "descartar todo o setor para evitar novos erros.",
+      "D": "substituir a resposta por uma estimativa feita no escritório.",
+      "E": "retornar ao campo, quando necessário, para corrigir a informação."
+    },
+    "correta": "E",
+    "explicacao": "A página 19 prevê que, se a supervisão indicar necessidade de corrigir dado coletado, o recenseador deverá retornar a campo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 19"
+  }
+]

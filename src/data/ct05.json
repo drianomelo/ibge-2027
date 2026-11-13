@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "id": "CT05-Q01",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Conceito de PCT",
+    "paginaPDF": 39,
+    "enunciado": "Em uma capacitação, recenseadores discutem o significado de Povos e Comunidades Tradicionais (PCTs). Segundo a apostila, esses grupos são caracterizados, entre outros aspectos, por",
+    "alternativas": {
+      "A": "serem grupos definidos pelo recenseador a partir de sua aparência.",
+      "B": "reconhecerem-se como grupos culturalmente diferenciados e possuírem formas próprias de organização e relações com o território.",
+      "C": "necessariamente residirem apenas em terras indígenas oficialmente delimitadas.",
+      "D": "adotarem obrigatoriamente a mesma atividade econômica e o mesmo idioma.",
+      "E": "estarem restritos a áreas urbanas de alta densidade."
+    },
+    "correta": "B",
+    "explicacao": "A página 39 caracteriza PCTs por autorreconhecimento cultural, organização social própria e relação com território, recursos naturais e práticas tradicionais.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 39"
+  },
+  {
+    "id": "CT05-Q02",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Diversidade de comunidades",
+    "paginaPDF": 39,
+    "enunciado": "Um planejamento censitário considera a diversidade dos povos e comunidades tradicionais no Brasil. Entre os exemplos expressamente citados na apostila estão",
+    "alternativas": {
+      "A": "apenas indígenas e quilombolas; nenhuma outra categoria é contemplada.",
+      "B": "exclusivamente famílias residentes em capitais.",
+      "C": "somente agricultores que possuem título formal de propriedade.",
+      "D": "indígenas, quilombolas, pescadores artesanais e povos ciganos.",
+      "E": "todos os empresários do setor de serviços, independentemente de identidade comunitária."
+    },
+    "correta": "D",
+    "explicacao": "A página 39 relaciona diversos PCTs, incluindo indígenas, quilombolas, povos ciganos, pescadores artesanais e comunidades extrativistas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 39"
+  },
+  {
+    "id": "CT05-Q03",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Multiplicidade de identidades",
+    "paginaPDF": 40,
+    "enunciado": "Durante uma entrevista, uma pessoa afirma pertencer a duas comunidades tradicionais. Diante dessa declaração, o recenseador deve",
+    "alternativas": {
+      "A": "escolher a identidade que considerar mais compatível com o território.",
+      "B": "substituir a declaração por uma classificação baseada na aparência.",
+      "C": "informar que é proibido reconhecer mais de uma identidade.",
+      "D": "respeitar a possibilidade de múltiplos pertencimentos, registrando a autodeclaração.",
+      "E": "solicitar que um vizinho determine a identidade definitiva."
+    },
+    "correta": "D",
+    "explicacao": "A página 40 explica que uma pessoa pode reconhecer-se em mais de uma comunidade tradicional e que o pertencimento é autodeclaratório.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q04",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Autodeclaração",
+    "paginaPDF": 40,
+    "enunciado": "Um recenseador discorda da identidade tradicional declarada por um entrevistado e pretende corrigir a resposta com base em critérios pessoais. Conforme a apostila, essa atitude é",
+    "alternativas": {
+      "A": "obrigatória para uniformizar as categorias de pesquisa.",
+      "B": "obrigatória quando a pessoa conhece mais de uma comunidade.",
+      "C": "permitida somente quando não existe documentação civil.",
+      "D": "permitida se o agente tiver experiência na região.",
+      "E": "inadequada, pois deve prevalecer a declaração do próprio informante, sem julgamentos ou correções."
+    },
+    "correta": "E",
+    "explicacao": "A página 40 orienta registrar o pertencimento conforme a declaração do informante, sem questionamentos, julgamentos ou tentativas de correção.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q05",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Territórios reconhecidos",
+    "paginaPDF": 40,
+    "enunciado": "A apostila agrupa as áreas de PCTs em categorias. A presença de uma Terra Indígena oficialmente delimitada enquadra-se em",
+    "alternativas": {
+      "A": "agrupamentos identificados pelo IBGE, necessariamente.",
+      "B": "setores de massa d’água.",
+      "C": "áreas delimitadas unicamente para interesse operacional.",
+      "D": "regiões sem identificação territorial.",
+      "E": "territórios oficialmente reconhecidos pelo Estado brasileiro."
+    },
+    "correta": "E",
+    "explicacao": "O quadro da página 40 inclui Terras Indígenas oficialmente delimitadas na categoria de territórios oficialmente reconhecidos pelo Estado brasileiro.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q06",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Agrupamentos identificados",
+    "paginaPDF": 40,
+    "enunciado": "Uma equipe distingue agrupamentos territoriais identificados pelo IBGE de territórios oficialmente reconhecidos. Na classificação da apostila, os agrupamentos identificados pelo IBGE incluem",
+    "alternativas": {
+      "A": "agrupamentos indígenas e agrupamentos quilombolas.",
+      "B": "apenas fronteiras internacionais.",
+      "C": "exclusivamente áreas de interesse operacional.",
+      "D": "todos os municípios brasileiros com pescadores.",
+      "E": "somente áreas de conservação criadas por lei."
+    },
+    "correta": "A",
+    "explicacao": "O quadro da página 40 inclui agrupamentos indígenas e quilombolas na categoria \"Agrupamentos identificados pelo IBGE\".",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q07",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "AIO como categoria",
+    "paginaPDF": 40,
+    "enunciado": "Para fins de classificação das áreas de PCTs, uma Área de Interesse Operacional (AIO) integra a categoria de",
+    "alternativas": {
+      "A": "territórios estaduais autônomos.",
+      "B": "agrupamentos já oficialmente reconhecidos como municípios.",
+      "C": "áreas delimitadas para fins da operação censitária.",
+      "D": "territórios que só existem após processo judicial.",
+      "E": "distritos urbanos necessariamente."
+    },
+    "correta": "C",
+    "explicacao": "A página 40 apresenta AIOs de Povos e Comunidades Tradicionais como áreas delimitadas para fins da operação censitária.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q08",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Conceito de AIO",
+    "paginaPDF": 41,
+    "enunciado": "Um setor censitário apresenta indícios da presença de comunidades tradicionais, exigindo atenção operacional. A AIO é definida na apostila como",
+    "alternativas": {
+      "A": "território obrigatoriamente igual ao de um único estabelecimento agropecuário.",
+      "B": "categoria criada para excluir definitivamente comunidades da coleta.",
+      "C": "a unidade que substitui todo setor censitário rural.",
+      "D": "classificação que depende de o recenseador avaliar pessoalmente cada identidade.",
+      "E": "recorte territorial independente dos setores, indicando presença efetiva ou potencial de PCTs."
+    },
+    "correta": "E",
+    "explicacao": "A página 41 define AIOs como recortes diferenciados, independentes dos setores censitários, para indicar presença efetiva ou potencial de PCTs.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 41"
+  },
+  {
+    "id": "CT05-Q09",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "AIO e setor",
+    "paginaPDF": 41,
+    "enunciado": "Uma AIO ultrapassa os limites de um setor censitário e atinge parte do setor vizinho. Segundo o material, essa situação",
+    "alternativas": {
+      "A": "impede a coleta de informações de qualquer unidade da região.",
+      "B": "transforma automaticamente os setores em novos municípios.",
+      "C": "demonstra erro porque AIOs sempre coincidem com setores.",
+      "D": "é possível, pois AIOs podem ser menores ou maiores que um setor, chegando a cobrir um município.",
+      "E": "exige que o recenseador altere os limites dos dois setores."
+    },
+    "correta": "D",
+    "explicacao": "A página 41 afirma que as AIOs não seguem a setorização, podendo ter extensão menor ou maior que um setor e até abranger um município inteiro.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 41"
+  },
+  {
+    "id": "CT05-Q10",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "DMC e AIO",
+    "paginaPDF": 41,
+    "enunciado": "Um setor está parcialmente inserido em uma AIO de comunidade tradicional. De acordo com a apostila, qual comportamento do DMC é esperado?",
+    "alternativas": {
+      "A": "Carregar a AIO no mapa digital e apresentar automaticamente perguntas específicas nas entrevistas.",
+      "B": "Excluir a informação geográfica sobre a comunidade.",
+      "C": "Desligar a captura de informações para garantir o sigilo.",
+      "D": "Solicitar que o recenseador redesenhe a fronteira municipal.",
+      "E": "Eliminar o questionário do setor para evitar dupla contagem."
+    },
+    "correta": "A",
+    "explicacao": "A página 41 explica que AIOs presentes total ou parcialmente no setor são carregadas automaticamente no mapa digital e geram perguntas específicas no DMC.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 41"
+  },
+  {
+    "id": "CT05-Q11",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Acesso aos territórios",
+    "paginaPDF": 41,
+    "enunciado": "Antes de realizar coleta em área de PCTs, a equipe precisa organizar as condições de deslocamento. Segundo a apostila, essas condições",
+    "alternativas": {
+      "A": "são decididas pelo próprio produtor, mesmo sem vínculo comunitário.",
+      "B": "são previamente negociadas com lideranças, associações e órgãos parceiros.",
+      "C": "são determinadas unilateralmente pelo primeiro recenseador a chegar.",
+      "D": "dispensam qualquer articulação institucional.",
+      "E": "devem ser definidas exclusivamente pela prefeitura."
+    },
+    "correta": "B",
+    "explicacao": "A página 41 informa que condições de acesso e deslocamento em áreas de PCTs são negociadas previamente com lideranças comunitárias, associações e órgãos parceiros.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 41"
+  },
+  {
+    "id": "CT05-Q12",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Guia-intérprete",
+    "paginaPDF": 42,
+    "enunciado": "Uma equipe fará coleta em Terra Indígena com dificuldades de comunicação em português. Conforme o material, pode ser necessário que o recenseador",
+    "alternativas": {
+      "A": "substitua as respostas por estimativas de outros setores.",
+      "B": "classifique a área como não recenseável sem visita.",
+      "C": "seja acompanhado por guia institucional e/ou guia-intérprete, com apoio de órgãos parceiros.",
+      "D": "dispense todas as entrevistas no território.",
+      "E": "exija que as lideranças respondam em português sem auxílio."
+    },
+    "correta": "C",
+    "explicacao": "A página 42 menciona necessidade frequente de guia institucional e/ou guia-intérprete em algumas áreas indígenas, com apoio da FUNAI e SESAI.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 42"
+  },
+  {
+    "id": "CT05-Q13",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Instituições de apoio",
+    "paginaPDF": 42,
+    "enunciado": "Em área indígena, a indicação de pessoa que possa auxiliar a coleta como guia institucional ou guia-intérprete pode contar, segundo a apostila, com apoio da",
+    "alternativas": {
+      "A": "Receita Federal e da Polícia Rodoviária Federal.",
+      "B": "empresa de transporte e da agência postal.",
+      "C": "FUNAI e da Secretaria Especial de Saúde Indígena (SESAI).",
+      "D": "Secretaria de Fazenda municipal exclusivamente.",
+      "E": "Junta Comercial e do Banco Central."
+    },
+    "correta": "C",
+    "explicacao": "A página 42 cita expressamente a Fundação Nacional dos Povos Indígenas (FUNAI) e a Secretaria Especial de Saúde Indígena (SESAI) no apoio à indicação desses guias.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 42"
+  },
+  {
+    "id": "CT05-Q14",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Respeito à identidade",
+    "paginaPDF": 40,
+    "enunciado": "Durante a aplicação do questionário, um morador se reconhece como membro de comunidade tradicional que não corresponde à expectativa inicial da equipe. O procedimento adequado é",
+    "alternativas": {
+      "A": "acolher o pertencimento autodeclarado, sem impor correções ou julgamentos.",
+      "B": "registrar a identidade presumida pela equipe e encerrar a entrevista.",
+      "C": "exigir documento que contenha exatamente o nome da comunidade.",
+      "D": "solicitar a validação prévia de outro entrevistado.",
+      "E": "reclassificar o morador pela localização de sua residência."
+    },
+    "correta": "A",
+    "explicacao": "O material, na página 40, estabelece o caráter autodeclaratório do pertencimento e veda a tentativa de corrigir ou julgar a identificação do informante.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 40"
+  },
+  {
+    "id": "CT05-Q15",
+    "bloco": "ct05",
+    "capitulo": 9,
+    "topico": "Finalidade das AIOs",
+    "paginaPDF": 41,
+    "enunciado": "Uma AIO corresponde a uma área com presença apenas potencial de comunidade tradicional. Considerando a definição da apostila, sua utilização é",
+    "alternativas": {
+      "A": "obrigatoriamente incompatível com setores rurais.",
+      "B": "compatível com a finalidade operacional de identificar áreas com presença efetiva ou potencial de PCTs.",
+      "C": "restrita exclusivamente ao levantamento demográfico de capitais.",
+      "D": "incorreta, pois depende de residência comprovada de todos os membros.",
+      "E": "permitida somente em áreas com título de propriedade privado."
+    },
+    "correta": "B",
+    "explicacao": "A página 41 explicita que as AIOs indicam presença efetiva ou potencial de povos e comunidades tradicionais, sem exigir coincidência com limites do setor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 41"
+  }
+]

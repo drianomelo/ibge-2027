@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "CT03-Q01",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Mapa do Setor Censitário",
+    "paginaPDF": 20,
+    "enunciado": "Antes de iniciar as visitas, um recenseador recebe um mapa com os limites de sua área de atuação. Segundo a apostila, a finalidade principal do Mapa do Setor Censitário é",
+    "alternativas": {
+      "A": "representar graficamente a área geográfica sob responsabilidade do recenseador.",
+      "B": "apresentar o histórico de cada produtor entrevistado.",
+      "C": "registrar a produtividade individual do Agente Censitário Regional.",
+      "D": "indicar apenas a divisão administrativa de todo o país.",
+      "E": "substituir o questionário de identificação dos estabelecimentos."
+    },
+    "correta": "A",
+    "explicacao": "A página 20 define o Mapa do Setor Censitário como representação gráfica da área a ser recenseada, incluindo elementos úteis ao reconhecimento em campo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 20"
+  },
+  {
+    "id": "CT03-Q02",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Descritivo do setor",
+    "paginaPDF": 20,
+    "enunciado": "Um agente precisa confirmar se uma estrada integra o limite de seu setor de trabalho. Para consultar a definição textual do contorno do setor, o documento adequado é",
+    "alternativas": {
+      "A": "a lista prévia de endereços.",
+      "B": "o relatório diário de produtividade.",
+      "C": "o Descritivo do Setor.",
+      "D": "o formulário de produção agrícola.",
+      "E": "o cadastro de fornecedores do município."
+    },
+    "correta": "C",
+    "explicacao": "O Descritivo do Setor apresenta a descrição textual dos limites e do contorno do setor, permitindo confirmar seu perímetro (página 20).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 20"
+  },
+  {
+    "id": "CT03-Q03",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Mapa Municipal Estatístico",
+    "paginaPDF": 20,
+    "enunciado": "Para planejar como chegar a um setor localizado longe do posto, o recenseador consulta um mapa com a visão geral dos setores municipais e vias de acesso. Trata-se do",
+    "alternativas": {
+      "A": "mapa de cobertura dos domicílios urbanos.",
+      "B": "Manual do Recenseador.",
+      "C": "Mapa Municipal Estatístico (MME).",
+      "D": "mapa isolado do produtor rural.",
+      "E": "questionário eletrônico do estabelecimento."
+    },
+    "correta": "C",
+    "explicacao": "O MME, descrito na página 20, mostra os setores censitários do município e suas vias de acesso, auxiliando o planejamento do deslocamento até o setor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 20"
+  },
+  {
+    "id": "CT03-Q04",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "DMC e mapa digital",
+    "paginaPDF": 21,
+    "enunciado": "No início de uma rota, o recenseador abre o DMC e visualiza os limites de seu setor sobre imagem obtida por satélite. Esse recurso serve para",
+    "alternativas": {
+      "A": "auxiliar a orientação no campo e distinguir a área de sua responsabilidade das áreas próximas.",
+      "B": "dispensar o reconhecimento dos elementos representados no mapa.",
+      "C": "autorizar o recenseador a modificar o perímetro cadastrado.",
+      "D": "substituir as entrevistas por observação remota de todas as propriedades.",
+      "E": "exibir apenas estabelecimentos encontrados no último dia."
+    },
+    "correta": "A",
+    "explicacao": "O mapa digital do setor, no DMC, mostra a área e o entorno, com limites destacados para auxiliar a localização e o reconhecimento da área (página 21).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 21"
+  },
+  {
+    "id": "CT03-Q05",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Lista prévia de endereços",
+    "paginaPDF": 21,
+    "enunciado": "Durante a coleta, um recenseador encontra um estabelecimento agropecuário que não figura na lista prévia do DMC. A conduta prevista na apostila é",
+    "alternativas": {
+      "A": "não registrar o estabelecimento, pois a lista prévia é definitiva.",
+      "B": "pedir que o produtor aguarde a próxima edição do Censo.",
+      "C": "alterar os limites do setor para abranger a propriedade.",
+      "D": "excluir todos os demais endereços da lista.",
+      "E": "visitar a unidade e incluir seu endereço após a verificação em campo."
+    },
+    "correta": "E",
+    "explicacao": "A página 21 explica que a lista é prévia e deve ser atualizada: o recenseador visita todos os endereços do setor, inclusive os ausentes, e inclui os novos encontrados.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 21"
+  },
+  {
+    "id": "CT03-Q06",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Atualização de endereços",
+    "paginaPDF": 21,
+    "enunciado": "Ao comparar sua lista prévia com a realidade, um recenseador encontra endereços que permanecem, endereços novos e registros inexistentes. A atualização adequada consiste em",
+    "alternativas": {
+      "A": "incluir exclusivamente os estabelecimentos com grande produção.",
+      "B": "confirmar os existentes, incluir os novos e excluir os não encontrados após verificação.",
+      "C": "preservar todos os registros sem qualquer conferência.",
+      "D": "descartar toda a lista e registrar apenas os imóveis residenciais.",
+      "E": "acrescentar os novos, mantendo os inexistentes como válidos."
+    },
+    "correta": "B",
+    "explicacao": "Na página 21, o IBGE orienta confirmar endereços presentes, incluir novos endereços e excluir os que não forem encontrados durante a verificação.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 21"
+  },
+  {
+    "id": "CT03-Q07",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Manual do Recenseador",
+    "paginaPDF": 22,
+    "enunciado": "O recenseador tem dúvida sobre um procedimento de coleta e procura um material que reúne conceitos, orientações e uso de sistemas. O instrumento adequado é",
+    "alternativas": {
+      "A": "o Mapa Municipal Estatístico.",
+      "B": "a relação de produtores participantes de anos anteriores.",
+      "C": "o relatório de gestão regional.",
+      "D": "o levantamento financeiro do município.",
+      "E": "o Manual do Recenseador."
+    },
+    "correta": "E",
+    "explicacao": "A página 22 define o Manual do Recenseador como documento de consulta e treinamento que reúne conceitos, procedimentos e orientações para utilização dos sistemas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 22"
+  },
+  {
+    "id": "CT03-Q08",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Legenda cartográfica",
+    "paginaPDF": 23,
+    "enunciado": "Em um mapa do setor, linhas de cores distintas representam vias, rios e limites. Antes de atribuir significado a essas cores, o recenseador deve",
+    "alternativas": {
+      "A": "considerar que toda linha colorida indica um limite municipal.",
+      "B": "consultar apenas a fotografia do local.",
+      "C": "desconsiderar as cores e utilizar a memória do percurso.",
+      "D": "consultar a legenda do próprio mapa.",
+      "E": "aplicar sempre o mesmo significado usado em mapas de outros municípios."
+    },
+    "correta": "D",
+    "explicacao": "A legenda identifica, por cores e símbolos, elementos representados; a página 24 reforça que não se deve interpretar um símbolo sem consultar a legenda.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 23"
+  },
+  {
+    "id": "CT03-Q09",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Escala cartográfica",
+    "paginaPDF": 24,
+    "enunciado": "Um mapa foi elaborado na escala 1:50.000. Considerando o exemplo da apostila, a distância real correspondente a 1 centímetro medido nesse mapa é de",
+    "alternativas": {
+      "A": "5 metros.",
+      "B": "50 quilômetros.",
+      "C": "50 metros.",
+      "D": "500 metros.",
+      "E": "5 quilômetros."
+    },
+    "correta": "D",
+    "explicacao": "Escala 1:50.000 significa 1 cm no mapa para 50.000 cm reais, equivalentes a 500 m, como explicado na página 24.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 24"
+  },
+  {
+    "id": "CT03-Q10",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Cálculo de distância",
+    "paginaPDF": 25,
+    "enunciado": "Um recenseador mede 3 centímetros entre duas referências em um mapa de escala 1:50.000. Desprezando particularidades do terreno, a distância real representada é de",
+    "alternativas": {
+      "A": "1,5 quilômetro.",
+      "B": "3 quilômetros.",
+      "C": "15 quilômetros.",
+      "D": "150 metros.",
+      "E": "500 metros."
+    },
+    "correta": "A",
+    "explicacao": "O exemplo da página 25 demonstra: 3 × 50.000 = 150.000 cm, ou 1.500 m, equivalentes a 1,5 km.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 25"
+  },
+  {
+    "id": "CT03-Q11",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Imagem de satélite",
+    "paginaPDF": 26,
+    "enunciado": "Durante a navegação em uma área rural, um agente utiliza imagens de satélite para reconhecer galpões, cursos de água, estradas e plantações. Essa utilização é adequada porque as imagens",
+    "alternativas": {
+      "A": "dispensam inteiramente o Mapa do Setor e o Descritivo.",
+      "B": "representam o terreno visto de cima, facilitando comparar seus elementos com a realidade.",
+      "C": "fornecem automaticamente o nome de todos os produtores.",
+      "D": "permitem alterar os limites do setor sem autorização.",
+      "E": "exibem apenas limites políticos, sem elementos naturais."
+    },
+    "correta": "B",
+    "explicacao": "A página 26 define a imagem orbital como visão real do terreno de cima, útil para reconhecer objetos e comparar o mapa com a paisagem em campo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 26"
+  },
+  {
+    "id": "CT03-Q12",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Interpretação de imagens",
+    "paginaPDF": 26,
+    "enunciado": "Ao observar uma imagem orbital, uma equipe identifica uma rotatória pelo contorno circular e distingue um grande galpão de casas menores. Os critérios empregados são, respectivamente,",
+    "alternativas": {
+      "A": "orientação e altitude.",
+      "B": "temperatura e relevo.",
+      "C": "velocidade e profundidade.",
+      "D": "cor e distância.",
+      "E": "forma e tamanho."
+    },
+    "correta": "E",
+    "explicacao": "Na página 26, forma e tamanho são características de interpretação de imagens: rotatórias podem ser reconhecidas pela forma circular e galpões pelo porte.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 26"
+  },
+  {
+    "id": "CT03-Q13",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Novas unidades no setor",
+    "paginaPDF": 27,
+    "enunciado": "Na observação de uma imagem de satélite, o recenseador identifica uma possível unidade que não aparece na lista de endereços. Conforme o material, deve",
+    "alternativas": {
+      "A": "verificar a unidade em campo e, quando cabível, visitá-la e registrá-la no DMC.",
+      "B": "incluir a unidade sem visitá-la ou verificá-la.",
+      "C": "solicitar que o produtor cadastre o endereço pela internet.",
+      "D": "transferir automaticamente a unidade para o setor vizinho.",
+      "E": "ignorar a unidade, pois não está na relação anterior."
+    },
+    "correta": "A",
+    "explicacao": "A página 27 orienta que novas unidades reconhecidas em imagens ou no percurso sejam visitadas e registradas no DMC.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 27"
+  },
+  {
+    "id": "CT03-Q14",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Ponto inicial e final",
+    "paginaPDF": 28,
+    "enunciado": "O Descritivo do Setor aponta um local de difícil acesso como início da coleta. A apostila admite que o recenseador escolha outro ponto inicial de acesso mais fácil, desde que",
+    "alternativas": {
+      "A": "informe exclusivamente ao produtor rural mais próximo.",
+      "B": "modifique também os limites oficiais do setor.",
+      "C": "comunique o supervisor, que avaliará a mudança e orientará o percurso.",
+      "D": "deixe de percorrer a área próxima ao ponto originalmente indicado.",
+      "E": "não registre essa decisão em qualquer circunstância."
+    },
+    "correta": "C",
+    "explicacao": "A página 28 admite outro ponto inicial se necessário, mas determina comunicar o supervisor para que avalie a mudança e oriente o percurso.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 28"
+  },
+  {
+    "id": "CT03-Q15",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Limites do perímetro",
+    "paginaPDF": 29,
+    "enunciado": "Em uma área rural, os limites de setores podem ser reconhecidos por elementos físicos e geográficos. Qual alternativa apresenta exemplos previstos no material?",
+    "alternativas": {
+      "A": "Apenas cercas internas de qualquer propriedade, sem consulta ao descritivo.",
+      "B": "Exclusivamente divisões de culturas agrícolas e tipos de solo.",
+      "C": "Apenas municípios próximos, nunca elementos da paisagem.",
+      "D": "Rios e córregos, estradas, ferrovias, caminhos secundários e linhas secas.",
+      "E": "Somente números de portas e fachadas de residências."
+    },
+    "correta": "D",
+    "explicacao": "A página 29 exemplifica corpos hídricos, rodovias, estradas, ferrovias, ramais e linhas secas como delimitadores do setor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 29"
+  },
+  {
+    "id": "CT03-Q16",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Alteração de perímetro",
+    "paginaPDF": 30,
+    "enunciado": "Um recenseador percebe que a paisagem mudou e a antiga delimitação do setor se tornou difícil de localizar. A orientação correta é",
+    "alternativas": {
+      "A": "incluir obrigatoriamente todo o território vizinho.",
+      "B": "abandonar a coleta do restante do setor.",
+      "C": "solicitar aos entrevistados que escolham a nova fronteira.",
+      "D": "redefinir sozinho o limite para evitar atrasos.",
+      "E": "comunicar a inconsistência à supervisão e não alterar o perímetro do setor."
+    },
+    "correta": "E",
+    "explicacao": "A página 30 informa que dificuldades de identificação do limite devem ser comunicadas à supervisão e que o recenseador jamais pode alterar o perímetro do setor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 30"
+  },
+  {
+    "id": "CT03-Q17",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Setores a serem excluídos",
+    "paginaPDF": 30,
+    "enunciado": "Um setor rural contém, dentro de seu perímetro aparente, outro setor designado a uma equipe diferente. Na seção \"Setores a serem excluídos\", o recenseador identifica que deve",
+    "alternativas": {
+      "A": "incorporar todos os registros do outro setor ao seu relatório.",
+      "B": "alterar o código geográfico para reunir os dois setores.",
+      "C": "recensear esse setor interior antes de iniciar o seu.",
+      "D": "não coletar nessa área excluída, pois pertence à responsabilidade de outro recenseador.",
+      "E": "ignorar o descritivo porque o mapa não apresenta exclusões."
+    },
+    "correta": "D",
+    "explicacao": "Na página 30, a seção \"Setores a serem excluídos\" informa os setores contidos no perímetro que não integram a área de responsabilidade do recenseador.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 30"
+  },
+  {
+    "id": "CT03-Q18",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Estruturas não setorizadas",
+    "paginaPDF": 31,
+    "enunciado": "No interior do setor de um recenseador existe um pequeno agrupamento rural que não foi separado em outro setor censitário. Segundo a apostila, a orientação é",
+    "alternativas": {
+      "A": "aguardar que a localidade seja transformada em setor autônomo.",
+      "B": "recenseá-la normalmente no setor, observando as particularidades de acesso e abordagem.",
+      "C": "considerá-la automaticamente parte de outro município.",
+      "D": "não coletar quaisquer informações na localidade.",
+      "E": "apagar o agrupamento do mapa e da lista prévia."
+    },
+    "correta": "B",
+    "explicacao": "A página 31 esclarece que estruturas territoriais não setorizadas permanecem no setor e devem ser recenseadas, com atenção especial ao acesso e à abordagem.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 31"
+  },
+  {
+    "id": "CT03-Q19",
+    "bloco": "ct03",
+    "capitulo": 6,
+    "topico": "Acessibilidade",
+    "paginaPDF": 31,
+    "enunciado": "No Descritivo do Setor consta a observação \"acesso fluvial\". Para o planejamento da coleta, essa informação deve ser interpretada como",
+    "alternativas": {
+      "A": "prova de que o setor é inteiramente composto por massa d’água.",
+      "B": "indicação da possível necessidade de embarcação e planejamento logístico com a supervisão.",
+      "C": "determinação de realizar todas as entrevistas por telefone.",
+      "D": "exigência de alterar os limites do município.",
+      "E": "autorização para não visitar qualquer unidade do setor."
+    },
+    "correta": "B",
+    "explicacao": "A página 31 exemplifica restrição de acesso fluvial como possibilidade de deslocamento por embarcação e necessidade de planejamento logístico com a supervisão.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 31"
+  },
+  {
+    "id": "CT03-Q20",
+    "bloco": "ct03",
+    "capitulo": 5,
+    "topico": "Cobertura territorial",
+    "paginaPDF": 20,
+    "enunciado": "Dois recenseadores devem garantir que não haja omissões nem sobreposição na coleta de estabelecimentos. O material destaca como responsabilidade fundamental de cada recenseador",
+    "alternativas": {
+      "A": "trabalhar somente nos locais representados por estrada asfaltada.",
+      "B": "coletar livremente nos setores vizinhos se houver tempo.",
+      "C": "percorrer integralmente seu setor, respeitando os limites definidos e contando com apoio do ACS.",
+      "D": "registrar apenas unidades cujo endereço conste da lista prévia.",
+      "E": "transferir a responsabilidade de cobertura ao entrevistado."
+    },
+    "correta": "C",
+    "explicacao": "A página 20 afirma que o setor constitui a área de trabalho do recenseador, que deve respeitar seus limites e garantir a cobertura integral, com auxílio do supervisor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 20"
+  }
+]

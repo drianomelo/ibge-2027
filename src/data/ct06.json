@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "CT06-Q01",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Padrão CNEFE",
+    "paginaPDF": 43,
+    "enunciado": "O recenseador identifica uma unidade em localidade rural com endereçamento informal. Para registrar o endereço conforme o padrão do IBGE, deverá",
+    "alternativas": {
+      "A": "utilizar sempre um código numérico de sua própria criação.",
+      "B": "criar livremente um nome para a via, sem conversar com moradores.",
+      "C": "priorizar o endereço formal e, se não houver, referências localmente reconhecidas que individualizem e localizem a unidade.",
+      "D": "omitir a unidade caso não exista endereço formal.",
+      "E": "registrar apenas o primeiro nome do responsável pela propriedade."
+    },
+    "correta": "C",
+    "explicacao": "A página 43 orienta o padrão CNEFE: registrar prioritariamente endereço formal e, na sua ausência, referências reconhecidas localmente que individualizem a unidade.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 43"
+  },
+  {
+    "id": "CT06-Q02",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Componentes do endereço",
+    "paginaPDF": 43,
+    "enunciado": "Um endereço completo deve permitir identificar e localizar uma unidade. Entre os componentes apresentados no esquema do CNEFE encontram-se",
+    "alternativas": {
+      "A": "logradouro, localidade, CEP, número e modificador, complemento, ponto de referência e coordenadas geográficas.",
+      "B": "distrito eleitoral, idade do produtor e número de dependentes.",
+      "C": "apenas município, estado e renda familiar.",
+      "D": "nome completo do entrevistado e valor de sua produção.",
+      "E": "somente o CEP e o tipo de lavoura."
+    },
+    "correta": "A",
+    "explicacao": "O esquema da página 43 relaciona logradouro, localidade, CEP, número e modificador, complemento, ponto de referência e coordenadas geográficas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 43"
+  },
+  {
+    "id": "CT06-Q03",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Logradouro rural",
+    "paginaPDF": 44,
+    "enunciado": "Durante a identificação de um endereço em área rural, o agente observa que a circulação de pessoas e mercadorias ocorre principalmente por uma estrada conhecida na região. Conforme a apostila, essa estrada",
+    "alternativas": {
+      "A": "não pode ser registrada como logradouro por não ser uma rua urbana.",
+      "B": "só pode constar como complemento de uma residência numerada.",
+      "C": "pode ser registrada como logradouro, que abrange áreas públicas de circulação reconhecidas pela comunidade.",
+      "D": "precisa receber um nome inventado pelo recenseador.",
+      "E": "deve ser classificada necessariamente como localidade."
+    },
+    "correta": "C",
+    "explicacao": "A página 44 define logradouro como área pública de circulação, podendo incluir estrada, rodovia, travessa, acesso e até rio em contexto rural.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 44"
+  },
+  {
+    "id": "CT06-Q04",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Nome do logradouro",
+    "paginaPDF": 44,
+    "enunciado": "Uma via tem um nome oficial reconhecido pela prefeitura e um apelido usado por parte dos moradores. Segundo a orientação de registro no CNEFE, deve-se",
+    "alternativas": {
+      "A": "abreviar o nome oficial para facilitar a digitação, sem outras condições.",
+      "B": "preferir a denominação oficial, sem omissões ou abreviações; na ausência dela, utilizar nome localmente reconhecido.",
+      "C": "registrar somente as coordenadas, desconsiderando a via.",
+      "D": "substituir o nome da via pelo nome de um morador conhecido.",
+      "E": "sempre preferir o apelido, mesmo se não identificar a via."
+    },
+    "correta": "B",
+    "explicacao": "A página 44 recomenda priorizar o nome oficial do logradouro, sem omissões ou abreviações, e utilizar o nome localmente reconhecido se o oficial não existir ou não puder ser identificado.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 44"
+  },
+  {
+    "id": "CT06-Q05",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Localidade",
+    "paginaPDF": 44,
+    "enunciado": "Um endereço fica no \"Assentamento Serra Verde\", conforme informação dos moradores. Para o padrão descrito no documento, essa expressão identifica",
+    "alternativas": {
+      "A": "o tipo de questionário automaticamente.",
+      "B": "o CEP individual da edificação.",
+      "C": "o número e modificador.",
+      "D": "a localidade, isto é, o nome pelo qual a região é conhecida.",
+      "E": "a longitude da sede."
+    },
+    "correta": "D",
+    "explicacao": "A página 44 define localidade como nome conhecido do local ou região, incluindo povoados, assentamentos e comunidades; recomenda perguntar à população.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 44"
+  },
+  {
+    "id": "CT06-Q06",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "CEP",
+    "paginaPDF": 45,
+    "enunciado": "O recenseador precisa registrar o Código de Endereçamento Postal de uma unidade. Sobre o CEP, a apostila informa que é",
+    "alternativas": {
+      "A": "um código com sete letras definido pelo IBGE.",
+      "B": "um conjunto de oito dígitos mantido pelos Correios e atribuído a áreas de endereçamento.",
+      "C": "obrigatoriamente diferente para cada edificação rural.",
+      "D": "o mesmo que geocódigo do setor censitário.",
+      "E": "um identificador exclusivo de cada produtor agropecuário."
+    },
+    "correta": "B",
+    "explicacao": "A página 45 apresenta o CEP como conjunto numérico de oito dígitos, de responsabilidade dos Correios, atribuído a áreas de endereçamento com diferentes extensões.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 45"
+  },
+  {
+    "id": "CT06-Q07",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Número e modificador",
+    "paginaPDF": 46,
+    "enunciado": "Em uma estrada, duas entradas compartilham o número 4573, sendo diferenciadas por letras. No padrão de endereço do IBGE, a letra que distingue uma entrada da outra constitui",
+    "alternativas": {
+      "A": "ponto de referência obrigatório.",
+      "B": "geocódigo de município.",
+      "C": "nome da localidade.",
+      "D": "coordenada de longitude.",
+      "E": "modificador associado ao número."
+    },
+    "correta": "E",
+    "explicacao": "A página 46 define o modificador como informação alfanumérica associada ao número para distinguir posições ou agregar identificação à numeração.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 46"
+  },
+  {
+    "id": "CT06-Q08",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Complemento",
+    "paginaPDF": 46,
+    "enunciado": "Um imóvel possui duas unidades com acesso pelo mesmo número, identificadas como \"Casa 1\" e \"Casa 2\". O componente destinado a diferenciar essas unidades é",
+    "alternativas": {
+      "A": "a latitude.",
+      "B": "o nome do município.",
+      "C": "o código da Superintendência Estadual.",
+      "D": "o CEP, que obrigatoriamente será distinto.",
+      "E": "o complemento."
+    },
+    "correta": "E",
+    "explicacao": "A página 46 explica que o complemento distingue unidades com a mesma posição no logradouro; exemplos incluem casa, frente, fundos, lote, sala e andar.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 46"
+  },
+  {
+    "id": "CT06-Q09",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Distinção de componentes",
+    "paginaPDF": 46,
+    "enunciado": "Em um endereço como \"Estrada da Serrinha, 4573 B, lote 9\", a letra \"B\" associada à numeração e a expressão \"lote 9\" correspondem, respectivamente, a",
+    "alternativas": {
+      "A": "modificador e complemento.",
+      "B": "complemento e logradouro.",
+      "C": "ponto de referência e localidade.",
+      "D": "logradouro e coordenadas.",
+      "E": "localidade e CEP."
+    },
+    "correta": "A",
+    "explicacao": "A página 46 diferencia o modificador (informação alfanumérica vinculada ao número) do complemento (informação adicional como lote, casa ou sala).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 46"
+  },
+  {
+    "id": "CT06-Q10",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Ponto de referência",
+    "paginaPDF": 47,
+    "enunciado": "Um estabelecimento rural está localizado em uma estrada sem numeração e sem complemento que permita distingui-lo adequadamente. Nesse caso, segundo a apostila, o ponto de referência é",
+    "alternativas": {
+      "A": "obrigatório para auxiliar na localização do endereço.",
+      "B": "proibido porque existem endereços informais.",
+      "C": "substituído pelo nome de qualquer pessoa da comunidade.",
+      "D": "facultativo mesmo quando é a única forma de localizar a unidade.",
+      "E": "uma informação destinada exclusivamente a imóveis urbanos."
+    },
+    "correta": "A",
+    "explicacao": "A página 47 determina o uso obrigatório do ponto de referência quando número ou complemento não permitem localizar adequadamente o endereço.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 47"
+  },
+  {
+    "id": "CT06-Q11",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Sigilo no endereço",
+    "paginaPDF": 47,
+    "enunciado": "Para registrar um ponto de referência, o recenseador pensa em escrever \"Casa do senhor Antônio, que informou ter determinada produção\". Segundo a apostila, essa escolha é",
+    "alternativas": {
+      "A": "necessária para validar as coordenadas.",
+      "B": "indiferente, pois os endereços não integram o sigilo.",
+      "C": "a forma preferida para imóveis rurais sem número.",
+      "D": "inadequada, pois não se deve identificar pessoas nos componentes do endereço, respeitando o sigilo estatístico.",
+      "E": "obrigatória por facilitar a identificação de moradores."
+    },
+    "correta": "D",
+    "explicacao": "A página 47 proíbe identificar pessoas nos componentes de endereço, por ferir o sigilo estatístico, e recomenda referências físicas estáveis.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 47"
+  },
+  {
+    "id": "CT06-Q12",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Características do ponto de referência",
+    "paginaPDF": 47,
+    "enunciado": "Na escolha de um ponto de referência para facilitar a localização de uma unidade, a opção mais adequada ao material é",
+    "alternativas": {
+      "A": "um automóvel que estaciona temporariamente na estrada.",
+      "B": "o preço de um produto vendido no estabelecimento.",
+      "C": "um elemento fixo, estável e fácil de visualizar, como a ponte próxima à entrada.",
+      "D": "uma pessoa que costuma caminhar pela região.",
+      "E": "uma plantação temporária que será retirada nos próximos dias."
+    },
+    "correta": "C",
+    "explicacao": "A página 46 define ponto de referência como informação descritiva de pontos fixos, estáveis e facilmente identificáveis, usualmente com indicação de posição relativa.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 47"
+  },
+  {
+    "id": "CT06-Q13",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Latitude",
+    "paginaPDF": 48,
+    "enunciado": "Um mapa registra que um estabelecimento fica a 12 graus ao sul da Linha do Equador. Esse valor refere-se à",
+    "alternativas": {
+      "A": "escala cartográfica.",
+      "B": "latitude sul.",
+      "C": "longitude oeste.",
+      "D": "distância até o meridiano de Greenwich em quilômetros.",
+      "E": "longitude leste."
+    },
+    "correta": "B",
+    "explicacao": "A página 48 define latitude como afastamento angular em relação à Linha do Equador, variando de 0° a 90° para norte ou sul.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 48"
+  },
+  {
+    "id": "CT06-Q14",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Longitude",
+    "paginaPDF": 48,
+    "enunciado": "Em determinada localização, o valor que indica afastamento angular em relação ao Meridiano de Greenwich corresponde à",
+    "alternativas": {
+      "A": "distância real percorrida pelo recenseador.",
+      "B": "escala linear do mapa.",
+      "C": "longitude, variando de 0° a 180° para leste ou oeste.",
+      "D": "latitude, variando de 0° a 90°.",
+      "E": "altura medida em metros."
+    },
+    "correta": "C",
+    "explicacao": "A página 48 define longitude como afastamento em graus do Meridiano de Greenwich, de 0° a 180° para leste ou oeste.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 48"
+  },
+  {
+    "id": "CT06-Q15",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Leitura de coordenadas",
+    "paginaPDF": 48,
+    "enunciado": "Um ponto geográfico é localizado pelo cruzamento de duas referências angulares. Na identificação desse ponto, as coordenadas utilizadas são",
+    "alternativas": {
+      "A": "latitude e longitude.",
+      "B": "altitude e CEP.",
+      "C": "escala e legenda.",
+      "D": "setor e subdistrito.",
+      "E": "número e modificador."
+    },
+    "correta": "A",
+    "explicacao": "A página 48 explica que qualquer ponto na superfície terrestre pode ser identificado por um par de valores: latitude e longitude.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 48"
+  },
+  {
+    "id": "CT06-Q16",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Sinal das coordenadas",
+    "paginaPDF": 49,
+    "enunciado": "Em um mapa de referência, o registro mostra latitude -22,326 e longitude -42,669. Conforme a interpretação apresentada na apostila, esse ponto se situa",
+    "alternativas": {
+      "A": "exatamente sobre o Equador e Greenwich.",
+      "B": "ao sul do Equador e a oeste de Greenwich.",
+      "C": "ao norte do Equador e a leste de Greenwich.",
+      "D": "ao norte do Equador e a oeste de Greenwich.",
+      "E": "ao sul do Equador e a leste de Greenwich."
+    },
+    "correta": "B",
+    "explicacao": "O exemplo da página 49 explica que latitude negativa indica sul da Linha do Equador e longitude negativa indica oeste do Meridiano de Greenwich.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 49"
+  },
+  {
+    "id": "CT06-Q17",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Coleta manual no meio rural",
+    "paginaPDF": 49,
+    "enunciado": "Antes de capturar coordenadas em uma unidade rural, o recenseador deve, de acordo com o material,",
+    "alternativas": {
+      "A": "marcar livremente qualquer coordenada que esteja dentro do setor.",
+      "B": "dispensar coordenadas se houver mapa em papel.",
+      "C": "aceitar sempre o ponto automático obtido à distância, sem verificar o local.",
+      "D": "posicionar-se com o DMC no local correto para efetuar a captura manual do ponto.",
+      "E": "registrar o ponto da sede do município em vez da unidade."
+    },
+    "correta": "D",
+    "explicacao": "A página 49 informa que, em áreas rurais, a captura das coordenadas deve ser feita manualmente, com o recenseador posicionado no local adequado.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 49"
+  },
+  {
+    "id": "CT06-Q18",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Local de captura",
+    "paginaPDF": 49,
+    "enunciado": "Em estabelecimento rural com edificação utilizada como sede, o recenseador precisa capturar coordenadas para representar o endereço. O ponto preferencial é",
+    "alternativas": {
+      "A": "uma coordenada escolhida no setor vizinho.",
+      "B": "o posto censitário de referência.",
+      "C": "o centro geométrico de toda a área produtiva, mesmo inacessível.",
+      "D": "a entrada da edificação que representa a sede do estabelecimento.",
+      "E": "a rodoviária do município."
+    },
+    "correta": "D",
+    "explicacao": "A página 49 explica que as coordenadas devem representar o acesso à unidade; havendo sede, o ponto ideal é a entrada de sua edificação.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 49"
+  },
+  {
+    "id": "CT06-Q19",
+    "bloco": "ct06",
+    "capitulo": 11,
+    "topico": "Uso do GPS",
+    "paginaPDF": 50,
+    "enunciado": "Um recenseador pretende confiar exclusivamente no GPS do dispositivo móvel e abandonar a leitura do mapa em papel. Segundo o material, essa decisão é",
+    "alternativas": {
+      "A": "necessária para garantir a inclusão de todos os endereços.",
+      "B": "obrigatória em áreas rurais de ocupação dispersa.",
+      "C": "permitida apenas nas áreas de comunidades tradicionais.",
+      "D": "recomendada porque o GPS impede qualquer erro.",
+      "E": "inadequada, pois o GPS auxilia a navegação, mas não substitui a interpretação dos mapas e das informações."
+    },
+    "correta": "E",
+    "explicacao": "A página 50 alerta que confiar exclusivamente no GPS ou deixar de utilizar o mapa em papel são erros: a tecnologia não substitui a interpretação do recenseador.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 50"
+  },
+  {
+    "id": "CT06-Q20",
+    "bloco": "ct06",
+    "capitulo": 10,
+    "topico": "Localidade x logradouro",
+    "paginaPDF": 44,
+    "enunciado": "Durante uma entrevista, o informante declara que mora no \"Povoado Esperança\", com acesso pela \"Estrada do Rio Claro\". Para os componentes do CNEFE, esses nomes representam, respectivamente,",
+    "alternativas": {
+      "A": "CEP e coordenadas.",
+      "B": "modificador e número.",
+      "C": "ponto de referência e complemento.",
+      "D": "logradouro e distrito, obrigatoriamente.",
+      "E": "localidade e logradouro."
+    },
+    "correta": "E",
+    "explicacao": "A página 44 trata localidade como nome da região, povoado ou assentamento e logradouro como via ou área pública de circulação reconhecida.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 44"
+  }
+]

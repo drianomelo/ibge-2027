@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "id": "CT08-Q01",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Estabelecimentos de indústrias",
+    "paginaPDF": 59,
+    "enunciado": "Uma indústria mantém uma unidade dedicada ao cultivo de matéria-prima agropecuária. No Censo Agropecuário, a investigação dessa unidade deverá contemplar",
+    "alternativas": {
+      "A": "todas as atividades industriais e comerciais do grupo, incluindo salários de todas as fábricas.",
+      "B": "as operações administrativas sem qualquer ligação com a produção.",
+      "C": "apenas o faturamento do produto industrializado.",
+      "D": "somente os clientes da indústria, excluindo a produção agrícola.",
+      "E": "a parte diretamente relacionada à atividade agropecuária, florestal ou aquícola."
+    },
+    "correta": "E",
+    "explicacao": "A página 59 determina investigar, em estabelecimentos vinculados a indústrias, a parte diretamente ligada à atividade agropecuária, florestal ou aquícola; dados industriais são investigados por outras pesquisas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 59"
+  },
+  {
+    "id": "CT08-Q02",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Confinamento de gado — boitel",
+    "paginaPDF": 59,
+    "enunciado": "Um boitel presta exclusivamente serviço de confinamento a gado pertencente a terceiros, sem animais próprios ou outra atividade agropecuária. Conforme a apostila, esse boitel",
+    "alternativas": {
+      "A": "deve somar os animais de terceiros à sua produção própria inexistente.",
+      "B": "é recenseável como produtor de todos os animais dos clientes.",
+      "C": "não se enquadra como estabelecimento agropecuário apenas por confinar animais de terceiros.",
+      "D": "deve ser recenseado como estabelecimento florestal.",
+      "E": "constitui obrigatoriamente um produtor sem área."
+    },
+    "correta": "C",
+    "explicacao": "A página 59 condiciona o enquadramento do boitel à existência de animais próprios ou de outra atividade agropecuária, não bastando confinar animais de terceiros.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 59"
+  },
+  {
+    "id": "CT08-Q03",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Gado de terceiros",
+    "paginaPDF": 59,
+    "enunciado": "Um boitel tem alguns animais próprios e recebe animais pertencentes a outros produtores para confinamento. Segundo a apostila, os animais de terceiros devem ser contados",
+    "alternativas": {
+      "A": "em duplicidade, no boitel e nos estabelecimentos proprietários.",
+      "B": "exclusivamente no questionário de atividade industrial.",
+      "C": "nos estabelecimentos dos respectivos proprietários.",
+      "D": "somente após venda dos animais pelo boitel.",
+      "E": "apenas no posto censitário do município."
+    },
+    "correta": "C",
+    "explicacao": "A página 59 diz que animais de terceiros confinados em boitel são contados nos estabelecimentos dos proprietários; o boitel só será estabelecimento se possuir animais próprios ou outra atividade agropecuária.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 59"
+  },
+  {
+    "id": "CT08-Q04",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Propriedade x estabelecimento",
+    "paginaPDF": 60,
+    "enunciado": "Uma propriedade rural é utilizada apenas para lazer e não possui atividade agropecuária, florestal ou aquícola enquadrável. Com base na distinção explicada na apostila, pode-se afirmar que",
+    "alternativas": {
+      "A": "a área se torna automaticamente estabelecimento por estar fora da cidade.",
+      "B": "nem toda propriedade rural constitui estabelecimento agropecuário.",
+      "C": "a existência de escritura torna dispensável identificar a produção.",
+      "D": "o recenseador deve registrar um estabelecimento mesmo sem exploração.",
+      "E": "toda propriedade rural equivale obrigatoriamente a um estabelecimento recenseável."
+    },
+    "correta": "B",
+    "explicacao": "A página 60 ressalta que propriedade rural e estabelecimento agropecuário não são sinônimos; sítios de lazer, por exemplo, podem não ser recenseáveis.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 60"
+  },
+  {
+    "id": "CT08-Q05",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Vários estabelecimentos em uma propriedade",
+    "paginaPDF": 60,
+    "enunciado": "Em uma mesma propriedade rural, dois produtores independentes exploram áreas distintas, cada um com sua produção. Segundo a apostila, essa situação pode caracterizar",
+    "alternativas": {
+      "A": "apenas um produtor sem área.",
+      "B": "uma unidade exclusivamente industrial.",
+      "C": "sempre ausência de estabelecimento porque a propriedade é compartilhada.",
+      "D": "necessariamente um único estabelecimento por existir somente uma matrícula.",
+      "E": "mais de um estabelecimento agropecuário dentro da mesma propriedade."
+    },
+    "correta": "E",
+    "explicacao": "A página 60 informa que uma mesma propriedade pode abrigar mais de um estabelecimento quando produtores diferentes exploram separadamente partes da área.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 60"
+  },
+  {
+    "id": "CT08-Q06",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Várias propriedades e uma exploração",
+    "paginaPDF": 60,
+    "enunciado": "Um produtor utiliza áreas pertencentes a diferentes proprietários, por arrendamento e comodato, como parte de uma exploração integrada. Conforme o material, é correto afirmar que",
+    "alternativas": {
+      "A": "a produção de cada propriedade deve ser ignorada por não ser própria.",
+      "B": "a forma de acesso à terra impede o enquadramento agropecuário.",
+      "C": "toda propriedade deve ser estabelecimento autônomo, sem exceção.",
+      "D": "uma propriedade nunca pode integrar exploração com outra.",
+      "E": "mais de uma propriedade pode compor um único estabelecimento, se atendidas as condições de unidade de exploração."
+    },
+    "correta": "E",
+    "explicacao": "A página 60 descreve a possibilidade de diferentes propriedades constituírem um estabelecimento, quando exploradas pelo mesmo produtor sob condições de unidade produtiva.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 60"
+  },
+  {
+    "id": "CT08-Q07",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Conceito de sede",
+    "paginaPDF": 61,
+    "enunciado": "Para decidir onde registrar um estabelecimento que abrange setores diferentes, o recenseador verifica sua sede. Conforme a apostila, sede é",
+    "alternativas": {
+      "A": "o local de administração dos trabalhos do estabelecimento, desde que situado em sua área.",
+      "B": "a sede administrativa do município onde mora o produtor.",
+      "C": "obrigatoriamente a área com a maior plantação, mesmo havendo escritório interno.",
+      "D": "o posto censitário que recebeu primeiro o questionário.",
+      "E": "o endereço residencial de qualquer empregado, mesmo fora da exploração."
+    },
+    "correta": "A",
+    "explicacao": "A página 61 define sede como local destinado à administração dos trabalhos do estabelecimento, desde que esteja na área do estabelecimento; pode ser a residência do produtor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 61"
+  },
+  {
+    "id": "CT08-Q08",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Estabelecimento em vários setores",
+    "paginaPDF": 61,
+    "enunciado": "Um estabelecimento agropecuário se estende pelos setores censitários A e B. Sua sede de administração fica dentro do setor A. Segundo a regra da apostila, a unidade deve ser recenseada",
+    "alternativas": {
+      "A": "no setor B, ainda que a sede esteja no setor A.",
+      "B": "separadamente nos dois setores, duplicando sua produção.",
+      "C": "apenas no posto censitário, sem indicação de setor.",
+      "D": "no setor com menor extensão, independentemente da sede.",
+      "E": "no setor A, onde se encontra a sede."
+    },
+    "correta": "E",
+    "explicacao": "A página 61 determina que estabelecimento cuja área se estenda por mais de um setor seja recenseado no setor onde se situa a sede.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 61"
+  },
+  {
+    "id": "CT08-Q09",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Municípios e sede",
+    "paginaPDF": 61,
+    "enunciado": "Um estabelecimento ocupa terras em dois municípios e sua sede está localizada no município Alfa. O material orienta que, para esse estabelecimento, a produção seja computada",
+    "alternativas": {
+      "A": "no município em que está a sede, conforme o enquadramento descrito.",
+      "B": "metade em cada município, sempre.",
+      "C": "no município com menor área produtiva.",
+      "D": "exclusivamente no município da maior população.",
+      "E": "apenas no município onde o produtor reside, mesmo se a sede é em outro."
+    },
+    "correta": "A",
+    "explicacao": "A página 61 informa que, quando um estabelecimento abrange setores de municípios distintos, toda a produção é computada no município onde se localiza sua sede.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 61"
+  },
+  {
+    "id": "CT08-Q10",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Ausência de sede",
+    "paginaPDF": 61,
+    "enunciado": "Uma exploração agropecuária ocupa dois setores e não possui sede identificável em sua área. O setor X contém 70% das terras e o setor Y, 30%. Nessa hipótese, o estabelecimento deverá ser recenseado",
+    "alternativas": {
+      "A": "no setor que receber primeiro uma entrevista.",
+      "B": "somente no posto regional, sem referência territorial.",
+      "C": "simultaneamente nos dois setores como duas unidades.",
+      "D": "no setor X, onde está a maior parte das terras.",
+      "E": "no setor Y, por ser menor e facilitar a coleta."
+    },
+    "correta": "D",
+    "explicacao": "A página 61 estabelece que, na inexistência de sede, o estabelecimento seja recenseado no setor onde está localizada a maior parte das terras.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 61"
+  },
+  {
+    "id": "CT08-Q11",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Áreas não contínuas",
+    "paginaPDF": 61,
+    "enunciado": "Um produtor explora glebas separadas fisicamente e deseja que elas sejam consideradas um único estabelecimento. Segundo a apostila, para áreas não contínuas essa reunião exige, entre outros requisitos,",
+    "alternativas": {
+      "A": "necessariamente que cada área esteja em um estado diferente.",
+      "B": "que cada gleba tenha um supervisor diferente.",
+      "C": "que os terrenos sejam separados apenas por cercas internas.",
+      "D": "mesmo município, mesmos recursos técnicos e humanos e administração única.",
+      "E": "somente que o produtor tenha o mesmo CPF em todos os locais."
+    },
+    "correta": "D",
+    "explicacao": "A página 61 lista quatro condições simultâneas para reunir áreas não contínuas: mesmo município, recursos técnicos compartilhados, pessoal comum e administração única.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 61"
+  },
+  {
+    "id": "CT08-Q12",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Quatro condições simultâneas",
+    "paginaPDF": 62,
+    "enunciado": "Um mesmo produtor mantém duas áreas não contínuas no mesmo município, com os mesmos trabalhadores e administrador, porém utiliza recursos técnicos totalmente independentes em cada uma. A regra da apostila indica que",
+    "alternativas": {
+      "A": "devem compor necessariamente um estabelecimento porque estão no mesmo município.",
+      "B": "o recenseador pode alterar a condição faltante no sistema.",
+      "C": "não devem compor um único estabelecimento por essa regra, pois falta uma das quatro condições simultâneas.",
+      "D": "basta o produtor declarar preferência por um único cadastro.",
+      "E": "deve ser ignorada a diferença de recursos técnicos."
+    },
+    "correta": "C",
+    "explicacao": "A página 62 é explícita: se qualquer uma das quatro condições para áreas não contínuas deixar de ser atendida, a área deve ser considerada outro estabelecimento.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 62"
+  },
+  {
+    "id": "CT08-Q13",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Estrada entre terras",
+    "paginaPDF": 62,
+    "enunciado": "Uma estrada atravessa a área explorada por um produtor, separando visualmente dois trechos de cultivo. De acordo com a apostila, a presença dessa estrada",
+    "alternativas": {
+      "A": "não caracteriza, por si só, descontinuidade da área do estabelecimento.",
+      "B": "torna o registro dependente de litígio judicial.",
+      "C": "obriga a registrar a produção no setor vizinho.",
+      "D": "faz o estabelecimento deixar de ser agropecuário.",
+      "E": "implica automaticamente a existência de dois estabelecimentos."
+    },
+    "correta": "A",
+    "explicacao": "A página 62 afirma que rios, estradas ou ferrovias que cortam as terras não caracterizam, por si, descontinuidade da área do estabelecimento.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 62"
+  },
+  {
+    "id": "CT08-Q14",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Áreas em municípios diferentes",
+    "paginaPDF": 62,
+    "enunciado": "Um produtor explora duas áreas não contínuas, uma integralmente no município A e outra integralmente no município B. Conforme a regra apresentada, elas",
+    "alternativas": {
+      "A": "devem ser consideradas estabelecimentos agropecuários diferentes.",
+      "B": "são necessariamente um único estabelecimento sem área.",
+      "C": "constituem automaticamente uma única unidade se o produtor for o mesmo.",
+      "D": "devem ser excluídas por estarem em municípios distintos.",
+      "E": "podem ser somadas pelo recenseador sem consultar a localização."
+    },
+    "correta": "A",
+    "explicacao": "A página 62 orienta que áreas não contínuas totalmente localizadas em municípios diferentes sejam tratadas como estabelecimentos distintos.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 62"
+  },
+  {
+    "id": "CT08-Q15",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Área atravessando municípios",
+    "paginaPDF": 62,
+    "enunciado": "Um produtor mantém uma área que atravessa a divisa entre dois municípios. Para enquadrá-la territorialmente, o documento orienta considerar",
+    "alternativas": {
+      "A": "o município de maior renda per capita.",
+      "B": "o município mais próximo do posto censitário.",
+      "C": "o município de origem dos trabalhadores exclusivamente.",
+      "D": "a sede ou, se ela não existir, a maior parte das terras.",
+      "E": "apenas o endereço residencial do produtor."
+    },
+    "correta": "D",
+    "explicacao": "A página 62, ao tratar de área que atravessa municípios, determina examinar individualmente a localização da sede ou, na falta dela, a maior parte das terras.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 62"
+  },
+  {
+    "id": "CT08-Q16",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Consulta à supervisão",
+    "paginaPDF": 63,
+    "enunciado": "Durante a coleta, surgem dúvidas sobre áreas descontínuas em municípios diferentes e há risco de contar a mesma produção duas vezes. A orientação do material é",
+    "alternativas": {
+      "A": "atribuir as áreas ao município onde o recenseador mora.",
+      "B": "omitir os dois estabelecimentos até o próximo Censo.",
+      "C": "registrar toda a produção em cada município para aumentar a cobertura.",
+      "D": "contatar o supervisor e tomar cuidado para evitar registros duplicados.",
+      "E": "criar novos limites do setor para resolver a dúvida."
+    },
+    "correta": "D",
+    "explicacao": "As páginas 62–63 alertam para o risco de duplicidade no registro de áreas em municípios diferentes e orientam que o recenseador consulte o supervisor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 63"
+  },
+  {
+    "id": "CT08-Q17",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Área contínua: cálculo",
+    "paginaPDF": 63,
+    "enunciado": "Um estabelecimento tem 15,5 hectares de terras próprias e 4,5 hectares arrendados em área contínua. Conforme o exemplo da apostila, a área total a informar é de",
+    "alternativas": {
+      "A": "4,5 hectares.",
+      "B": "25 hectares.",
+      "C": "20 hectares.",
+      "D": "15,5 hectares.",
+      "E": "11 hectares."
+    },
+    "correta": "C",
+    "explicacao": "A página 63 traz exatamente o exemplo de 15,5 ha próprios mais 4,5 ha arrendados, resultando em um estabelecimento de 20 ha.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 63"
+  },
+  {
+    "id": "CT08-Q18",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Sucessão com consenso",
+    "paginaPDF": 65,
+    "enunciado": "Um estabelecimento está em fase de inventário e os herdeiros concordam que a exploração permaneça unificada. Segundo a apostila, a coleta deverá considerá-lo",
+    "alternativas": {
+      "A": "um único estabelecimento, cabendo ao inventariante ou responsável prestar as informações.",
+      "B": "necessariamente dividido em tantos estabelecimentos quantos forem os herdeiros.",
+      "C": "uma atividade exclusivamente industrial.",
+      "D": "não recenseável durante todo o processo sucessório.",
+      "E": "um produtor sem área por definição."
+    },
+    "correta": "A",
+    "explicacao": "A página 65 estabelece que, havendo consenso entre herdeiros em sucessão ou partilha, o estabelecimento é recenseado como único e as informações são prestadas pelo inventariante ou responsável.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 65"
+  },
+  {
+    "id": "CT08-Q19",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Herdeiros com explorações distintas",
+    "paginaPDF": 65,
+    "enunciado": "Após uma partilha de fato, cada herdeiro ocupa uma parte do terreno e conduz sua produção individualmente. Conforme a orientação do material,",
+    "alternativas": {
+      "A": "todas as partes devem ser registradas como produtores sem área.",
+      "B": "a produção de todos deve ser somada obrigatoriamente em nome do herdeiro mais velho.",
+      "C": "o imóvel se torna automaticamente não recenseável.",
+      "D": "a separação só deve ser reconhecida após o encerramento de todas as ações judiciais.",
+      "E": "cada parte explorada deve ser considerada um estabelecimento diferente."
+    },
+    "correta": "E",
+    "explicacao": "A página 65 distingue o consenso que mantém um único estabelecimento da situação em que cada herdeiro ocupa uma parte: cada parte é registrada como estabelecimento diferente.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 65"
+  },
+  {
+    "id": "CT08-Q20",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Litígio judicial",
+    "paginaPDF": 65,
+    "enunciado": "Duas pessoas disputam judicialmente a titularidade de um estabelecimento. Para identificar o produtor no Censo, a apostila determina considerar",
+    "alternativas": {
+      "A": "a pessoa de maior idade.",
+      "B": "quem era responsável economicamente pela exploração na data de referência.",
+      "C": "a pessoa que mora mais perto do posto censitário.",
+      "D": "a pessoa que apresentou primeiro o documento de identidade.",
+      "E": "necessariamente o autor da ação judicial."
+    },
+    "correta": "B",
+    "explicacao": "A página 65 informa que, em litígio, o estabelecimento deve ser recenseado considerando como produtor quem era economicamente responsável pela exploração na data de referência.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 65"
+  },
+  {
+    "id": "CT08-Q21",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Estabelecimento novo",
+    "paginaPDF": 65,
+    "enunciado": "Um estabelecimento recém-criado existe na data de referência, mas suas lavouras permanentes ainda não produzem. Segundo a apostila, ele",
+    "alternativas": {
+      "A": "deve ser classificado como área sem produtor automaticamente.",
+      "B": "deve ser recenseado, mesmo sem produção efetiva no período, nas condições descritas.",
+      "C": "deve ser omitido se houver outro estabelecimento no mesmo município.",
+      "D": "deve ser excluído até a primeira colheita.",
+      "E": "só pode ser recenseado se possuir produção industrial."
+    },
+    "correta": "B",
+    "explicacao": "A página 65 determina recensear estabelecimentos existentes na data de referência, inclusive novos com plantas ainda não produtivas ou sem produção no período.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 65"
+  },
+  {
+    "id": "CT08-Q22",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Perda de produção",
+    "paginaPDF": 65,
+    "enunciado": "Em razão de seca severa, um estabelecimento agropecuário existente na data de referência perdeu a produção esperada no período investigado. Segundo o material, a unidade",
+    "alternativas": {
+      "A": "precisa ser somada à produção de um vizinho.",
+      "B": "não pode ser recenseada porque a colheita não ocorreu.",
+      "C": "deve ser recenseada, apesar da ausência de produção por motivo climático.",
+      "D": "deve ser registrada apenas no Censo Demográfico.",
+      "E": "deve ser considerada automaticamente propriedade de lazer."
+    },
+    "correta": "C",
+    "explicacao": "A página 65 inclui entre os estabelecimentos a recensear aqueles que tiveram perda de produção por razões climáticas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 65"
+  },
+  {
+    "id": "CT08-Q23",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Registro de ausência de produção",
+    "paginaPDF": 66,
+    "enunciado": "Após verificar um estabelecimento recenseável que não teve produção no período de referência, o recenseador precisa registrar a razão dessa ausência. A apostila orienta usar",
+    "alternativas": {
+      "A": "o geocódigo do distrito para substituir a explicação.",
+      "B": "o nome de outro produtor como justificativa.",
+      "C": "exclusivamente um documento em papel fora do sistema.",
+      "D": "o campo Observações do DMC para registrar o motivo.",
+      "E": "um novo setor censitário aberto para esse estabelecimento."
+    },
+    "correta": "D",
+    "explicacao": "A página 66 orienta registrar no campo Observações do DMC o motivo da ausência de produção em estabelecimentos novos ou sem produção.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 66"
+  },
+  {
+    "id": "CT08-Q24",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Exploração comunitária — coletiva",
+    "paginaPDF": 66,
+    "enunciado": "Em uma área comunitária, várias famílias trabalham juntas na mesma produção e dividem o resultado entre si. Segundo a apostila, nessa forma de organização",
+    "alternativas": {
+      "A": "a coleta deve ocorrer sem identificar a atividade produtiva.",
+      "B": "deve ser preenchido um único questionário para a produção coletiva.",
+      "C": "a produção deve ser excluída por não existir titular único.",
+      "D": "cada trabalhador precisa ser registrado como produtor sem área.",
+      "E": "cada família deve necessariamente preencher um questionário individual."
+    },
+    "correta": "B",
+    "explicacao": "A página 66 estabelece que, na produção comunitária coletiva, em que famílias trabalham juntas e dividem a produção, deve ser preenchido apenas um questionário.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 66"
+  },
+  {
+    "id": "CT08-Q25",
+    "bloco": "ct08",
+    "capitulo": 14,
+    "topico": "Exploração comunitária — individual",
+    "paginaPDF": 66,
+    "enunciado": "Em outra comunidade, cada família decide o que produzir e qual será o destino de sua própria produção. Conforme a apostila, nesse caso",
+    "alternativas": {
+      "A": "todas as famílias são obrigatoriamente representadas por um único questionário.",
+      "B": "deve-se preencher um questionário para cada família, considerando a exploração individualizada.",
+      "C": "a coleta não pode ser realizada por recenseador.",
+      "D": "os estabelecimentos devem ser ignorados por estarem em área comunitária.",
+      "E": "apenas a liderança da comunidade presta os dados agregados."
+    },
+    "correta": "B",
+    "explicacao": "A página 66 diferencia produção coletiva e individual; quando cada família organiza sua produção, o levantamento é individualizado, com um questionário por família.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 66"
+  }
+]

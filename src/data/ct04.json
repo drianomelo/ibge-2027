@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "id": "CT04-Q01",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Municípios e estados",
+    "paginaPDF": 32,
+    "enunciado": "Em um trabalho cartográfico, um estudante precisa distinguir estados e municípios na organização territorial brasileira. De acordo com a apostila, municípios são",
+    "alternativas": {
+      "A": "unidades autônomas de caráter local que dividem os estados em áreas menores.",
+      "B": "áreas que existem somente nas capitais das Unidades da Federação.",
+      "C": "subdivisões sem qualquer vínculo com a legislação estadual.",
+      "D": "unidades subordinadas apenas aos setores censitários.",
+      "E": "órgãos temporários criados exclusivamente para o Censo Agropecuário."
+    },
+    "correta": "A",
+    "explicacao": "A página 32 caracteriza os municípios como unidades federativas autônomas de caráter local que dividem os estados e são criadas ou modificadas por lei estadual.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 32"
+  },
+  {
+    "id": "CT04-Q02",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Distritos",
+    "paginaPDF": 32,
+    "enunciado": "Uma prefeitura cria um distrito para organizar melhor o planejamento e a administração territorial de um município. Segundo o documento, os distritos",
+    "alternativas": {
+      "A": "têm autonomia política equivalente à dos estados.",
+      "B": "substituem os municípios nas áreas rurais.",
+      "C": "são sempre unidades de coleta compostas por um único recenseador.",
+      "D": "são instituídos exclusivamente por decisão do IBGE.",
+      "E": "subdividem os municípios, são criados por legislação municipal e não possuem autonomia administrativa própria."
+    },
+    "correta": "E",
+    "explicacao": "A página 32 afirma que distritos subdividem integralmente os municípios, são criados por legislação municipal e estão subordinados à administração municipal.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 32"
+  },
+  {
+    "id": "CT04-Q03",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Subdistritos",
+    "paginaPDF": 33,
+    "enunciado": "Em uma cidade grande, a administração considera subdividir um distrito muito populoso em unidades menores. No vocabulário territorial descrito pelo IBGE, essas subdivisões são",
+    "alternativas": {
+      "A": "setores nacionais de qualidade.",
+      "B": "subdistritos.",
+      "C": "áreas de interesse operacional, obrigatoriamente.",
+      "D": "unidades federativas.",
+      "E": "superintendências estaduais."
+    },
+    "correta": "B",
+    "explicacao": "A página 33 descreve subdistritos como subdivisões de distritos, mais comuns em cidades grandes, não presentes em todos os municípios.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 33"
+  },
+  {
+    "id": "CT04-Q04",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Setor censitário",
+    "paginaPDF": 33,
+    "enunciado": "Um supervisor explica por que municípios são divididos em áreas menores para executar os levantamentos do IBGE. A unidade territorial de coleta destinada ao trabalho do recenseador é o",
+    "alternativas": {
+      "A": "distrito autônomo.",
+      "B": "território estadual de qualidade.",
+      "C": "setor censitário.",
+      "D": "conjunto obrigatório de três municípios.",
+      "E": "Centro Estadual de Qualidade."
+    },
+    "correta": "C",
+    "explicacao": "A página 33 apresenta o setor censitário como unidade territorial usada no planejamento da carga de trabalho e delimitação da área de coleta.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 33"
+  },
+  {
+    "id": "CT04-Q05",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Geocódigo",
+    "paginaPDF": 34,
+    "enunciado": "Um geocódigo setorial é apresentado como 51 04104 05 00 0016. Seguindo a decomposição ilustrada na apostila, o trecho final \"0016\" identifica",
+    "alternativas": {
+      "A": "o município.",
+      "B": "o distrito.",
+      "C": "a Unidade da Federação.",
+      "D": "o número do setor censitário.",
+      "E": "o subdistrito."
+    },
+    "correta": "D",
+    "explicacao": "A página 34 mostra o geocódigo dividido em estado (51), município (04104), distrito (05), subdistrito (00) e setor (0016).",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 34"
+  },
+  {
+    "id": "CT04-Q06",
+    "bloco": "ct04",
+    "capitulo": 7,
+    "topico": "Identificação do setor",
+    "paginaPDF": 34,
+    "enunciado": "Na conferência de um setor, o recenseador precisa localizar seu geocódigo em documentos operacionais. A apostila indica que o código aparece",
+    "alternativas": {
+      "A": "somente na lista de animais da propriedade.",
+      "B": "no título e no rodapé dos mapas e no canto superior direito do Descritivo do Setor.",
+      "C": "exclusivamente no portal público de resultados do Censo.",
+      "D": "apenas no questionário preenchido ao final da visita.",
+      "E": "unicamente no crachá do Agente Censitário Regional."
+    },
+    "correta": "B",
+    "explicacao": "A página 34 informa que o geocódigo figura no título e rodapé dos mapas e no canto superior direito do Descritivo do Setor.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 34"
+  },
+  {
+    "id": "CT04-Q07",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Situação e tipo",
+    "paginaPDF": 35,
+    "enunciado": "Um candidato observa que os setores são identificados por situação e tipo. De acordo com a apostila, a distinção correta entre essas duas classificações é",
+    "alternativas": {
+      "A": "situação indica o nome do município; tipo, o número do distrito.",
+      "B": "situação classifica exclusivamente a forma jurídica das propriedades.",
+      "C": "situação se refere apenas à acessibilidade por embarcação; tipo, ao tamanho do setor.",
+      "D": "situação considera a ocupação rural ou urbana; tipo considera características específicas e possíveis procedimentos diferenciados.",
+      "E": "situação corresponde à renda dos produtores; tipo, ao valor da produção."
+    },
+    "correta": "D",
+    "explicacao": "A página 35 distingue situação, relacionada às formas de ocupação rural/urbana, e tipo, relacionado a características do território, restrições de acesso e procedimentos diferenciados.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 35"
+  },
+  {
+    "id": "CT04-Q08",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Setores prioritários do Censo",
+    "paginaPDF": 35,
+    "enunciado": "Uma equipe está planejando o Censo Agropecuário, que deverá ocorrer principalmente em setores com características rurais. A relação de situações mais trabalhadas inclui",
+    "alternativas": {
+      "A": "todos os setores prisionais, independentemente da existência de produção.",
+      "B": "somente áreas urbanas com grande verticalização de edifícios.",
+      "C": "áreas rurais dispersas, aglomerados rurais e certas áreas urbanas de baixa densidade.",
+      "D": "apenas bairros de capitais com grande população.",
+      "E": "exclusivamente setores de massa d’água."
+    },
+    "correta": "C",
+    "explicacao": "A página 35 destaca áreas rurais de ocupação dispersa, aglomerados rurais e áreas urbanas de baixa densidade que podem conter estabelecimentos agropecuários.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 35"
+  },
+  {
+    "id": "CT04-Q09",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Área urbana de baixa densidade",
+    "paginaPDF": 36,
+    "enunciado": "Um setor apresenta poucas edificações, áreas verdes não habitadas e sinais de expansão urbana. De acordo com o quadro de classificação da apostila, o setor se aproxima da categoria",
+    "alternativas": {
+      "A": "quartel e base militar.",
+      "B": "área urbana de baixa densidade de edificações.",
+      "C": "agrupamento quilombola, necessariamente.",
+      "D": "área rural de ocupação dispersa.",
+      "E": "massa d’água costeira."
+    },
+    "correta": "B",
+    "explicacao": "O quadro da página 36 descreve a área urbana de baixa densidade por baixa concentração de edificações, expansão urbana e áreas verdes desabitadas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 36"
+  },
+  {
+    "id": "CT04-Q10",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Núcleo urbano",
+    "paginaPDF": 36,
+    "enunciado": "Uma aglomeração separada da cidade por uma distância inferior a 1 km apresenta características urbanas. Na classificação apresentada na apostila, ela pode ser identificada como",
+    "alternativas": {
+      "A": "massa d’água.",
+      "B": "subdistrito administrativo autônomo.",
+      "C": "estabelecimento agropecuário individual.",
+      "D": "área rural excluída, em qualquer hipótese.",
+      "E": "núcleo urbano."
+    },
+    "correta": "E",
+    "explicacao": "A página 36 descreve núcleo urbano como aglomeração separada de cidades e vilas por menos de 1 km, ou mais distante mas com características urbanas.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 36"
+  },
+  {
+    "id": "CT04-Q11",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Massa d’água",
+    "paginaPDF": 36,
+    "enunciado": "Uma grande superfície de água consta da representação territorial de uma região de coleta. Conforme a apostila, a massa d’água",
+    "alternativas": {
+      "A": "não constitui área de coleta, mas pode interferir na operação censitária.",
+      "B": "deve ser ignorada na logística porque não influencia o deslocamento.",
+      "C": "integra obrigatoriamente um questionário como estabelecimento aquícola.",
+      "D": "é sempre classificada como aglomerado rural produtivo.",
+      "E": "é definida exclusivamente pela existência de pescadores artesanais."
+    },
+    "correta": "A",
+    "explicacao": "A página 36 afirma que massas d’água são grandes porções interiores ou costeiras que não constituem áreas de coleta, embora possam afetar a operação.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 36"
+  },
+  {
+    "id": "CT04-Q12",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Setor não especial",
+    "paginaPDF": 37,
+    "enunciado": "Um setor não apresenta características que o enquadrem em nenhuma classificação especial por tipo. Segundo o material, ele recebe a classificação",
+    "alternativas": {
+      "A": "não especial.",
+      "B": "setor com baixo patamar domiciliar, necessariamente.",
+      "C": "unidade prisional.",
+      "D": "aglomerado indígena.",
+      "E": "agrovila."
+    },
+    "correta": "A",
+    "explicacao": "A página 37 define setor \"não especial\" como aquele que não se enquadra em nenhuma outra classificação quanto ao tipo.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 37"
+  },
+  {
+    "id": "CT04-Q13",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Agrupamento indígena",
+    "paginaPDF": 37,
+    "enunciado": "Em uma análise territorial, identifica-se um conjunto de 15 indígenas residentes em moradias espacialmente contíguas, com vínculos comunitários. Segundo a definição apresentada, trata-se de exemplo de",
+    "alternativas": {
+      "A": "massa d’água.",
+      "B": "núcleo urbano de alta densidade.",
+      "C": "agrupamento indígena.",
+      "D": "quartel e base militar.",
+      "E": "agrovila necessariamente."
+    },
+    "correta": "C",
+    "explicacao": "A página 37 define agrupamento indígena como setor composto por 15 ou mais indígenas em moradias contíguas espacialmente e vinculados por laços familiares ou comunitários.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 37"
+  },
+  {
+    "id": "CT04-Q14",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Agrovila",
+    "paginaPDF": 38,
+    "enunciado": "Uma localidade de habitação e produção agrícola reúne mais de 50 domicílios ligados a um Projeto de Assentamento. O tipo de setor descrito no material é",
+    "alternativas": {
+      "A": "massa d’água.",
+      "B": "área de alta densidade industrial, obrigatoriamente.",
+      "C": "subdistrito autônomo.",
+      "D": "agrovila.",
+      "E": "unidade prisional."
+    },
+    "correta": "D",
+    "explicacao": "A página 38 define agrovila como setor com mais de 50 domicílios associados a projetos de assentamento, com concentração de moradias e produção agrícola.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 38"
+  },
+  {
+    "id": "CT04-Q15",
+    "bloco": "ct04",
+    "capitulo": 8,
+    "topico": "Agrupamento quilombola",
+    "paginaPDF": 38,
+    "enunciado": "Em um setor, residem 15 pessoas autodeclaradas quilombolas, com vínculos familiares ou comunitários e moradias contíguas espacialmente. A categoria descrita corresponde a",
+    "alternativas": {
+      "A": "núcleo urbano, necessariamente.",
+      "B": "setor com baixo patamar domiciliar, necessariamente.",
+      "C": "Centro Estadual de Qualidade.",
+      "D": "quartel e base militar.",
+      "E": "agrupamento quilombola."
+    },
+    "correta": "E",
+    "explicacao": "A página 38 caracteriza agrupamento quilombola por 15 ou mais pessoas autodeclaradas quilombolas em moradias contíguas e vinculadas por laços familiares ou comunitários.",
+    "fonte": "IBGE, Conhecimentos básicos para o 12º Censo Agropecuário, Florestal e Aquícola, p. 38"
+  }
+]
